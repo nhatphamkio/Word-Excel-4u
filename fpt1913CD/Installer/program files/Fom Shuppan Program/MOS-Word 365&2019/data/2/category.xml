@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<root>
+<examCategory idx="1" startItem="1" endItem="6" title="掃除のコツと裏ワザ" template="mogi2-project1.docx"></examCategory>
+<examCategory idx="2" startItem="7" endItem="11" title="保健センター通信" template="mogi2-project2.docx"></examCategory>
+<examCategory idx="3" startItem="12" endItem="17" title="施設利用予定表" template="mogi2-project3.docx"></examCategory>
+<examCategory idx="4" startItem="18" endItem="23" title="ダイビングクラブ会報誌" template="mogi2-project4.docx"></examCategory>
+<examCategory idx="5" startItem="24" endItem="28" title="ブライダルフェア" template="mogi2-project5.docx"></examCategory>
+<examCategory idx="6" startItem="29" endItem="29" title="職務経歴書" template="mogi2-project6.docx"></examCategory>
+<examCategory idx="7" startItem="30" endItem="34" title="利用マニュアル" template="mogi2-project7.docx"></examCategory>
+<examCategory idx="8" startItem="35" endItem="35" title="海外旅行保険の案内" template="mogi2-project8.docx"></examCategory>
+</root>

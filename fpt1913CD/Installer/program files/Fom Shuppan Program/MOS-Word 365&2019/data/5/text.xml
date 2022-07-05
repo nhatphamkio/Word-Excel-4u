@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<root>
+		<readHead></readHead>
+		<read></read>
+	<examItem idx="1" standard="1" task="1" project="1" keyword="ページ設定">
+		<fname>5-01.docx</fname>
+		<title>文書の管理</title>
+		<text>あなたは、食と地域経済に関するレポートを作成します。
+		文書の上下の余白を「20mm」に設定してください。</text>
+	</examItem>
+	<examItem idx="2" standard="2" task="2" project="1" keyword="スタイル">
+		<fname>5-02.docx</fname>
+		<title>文字、段落、セクションの挿入と書式設定</title>
+		<text>文頭の「食と地域経済」にスタイル「表題」を設定してください。</text>
+	</examItem>
+	<examItem idx="3" standard="3" task="3" project="1" keyword="段落番号">
+		<fname>5-03.docx</fname>
+		<title>表やリストの管理</title>
+		<text>見出し「B-1グランプリが地域にもたらす経済効果」の下にある「富士宮焼きそば…」「厚木シロコロ…」「第4回B-1…」「第5回B-1…」の段落番号のレベルをレベル2に設定してください。</text>
+	</examItem>
+	<examItem idx="4" standard="5" task="4" project="1" keyword="SmartArtグラフィック">
+		<fname>5-04.docx</fname>
+		<title>グラフィック要素の挿入と書式設定</title>
+		<text>見出し「経済効果の主な内訳」内のSmartArtグラフィックにある図形「直接的な効果」と「波及的な効果」に、影の効果「オフセット：中央」を設定してください。</text>
+	</examItem>
+	<examItem idx="5" standard="6" task="5" project="1" keyword="コメント">
+		<fname>5-05.docx</fname>
+		<title>文書の共同作業の管理</title>
+		<text>見出し「過去の開催結果」内の「今までのB-1グランプリの開催結果は、次のとおりである。」に「{US}最新の結果は公表され次第、入力する。{UE}」とコメントを追加してください。</text>
+	</examItem>
+	<examItem idx="6" standard="4" task="6" project="1" keyword="文献目録">
+		<fname>5-06.docx</fname>
+		<title>参考資料の作成と管理</title>
+		<text>文末に組み込みの文献目録を挿入してください。</text>
+	</examItem>
+	<examItem idx="7" standard="4" task="1" project="2" keyword="目次">
+		<fname>5-07.docx</fname>
+		<title>参考資料の作成と管理</title>
+		<text>あなたは、労働組合主催の旅行のしおりを作成します。
+		「＜CONTENTS＞」の下に目次を挿入してください。目次レベルは、レベル2をスタイル「見出し2」として表示し、他のレベルは表示しないようにします。また、書式は「フォーマル」とし、ページ番号は表示しません。</text>
+	</examItem>
+	<examItem idx="8" standard="1" task="2" project="2" keyword="ページ番号">
+		<fname>5-08.docx</fname>
+		<title>文書の管理</title>
+		<text>ページの下部にページ番号「細い線」を挿入してください。</text>
+	</examItem>
+	<examItem idx="9" standard="1" task="3" project="2" keyword="ハイパーリンク">
+		<fname>5-09.docx</fname>
+		<title>文書の管理</title>
+		<text>見出し「■ツアー内容」をクリックすると、ブックマーク「旅程表」にジャンプするようにハイパーリンクを挿入してください。</text>
+	</examItem>
+	<examItem idx="10" standard="5" task="4" project="2" keyword="SmartArtグラフィック">
+		<fname>5-10.docx</fname>
+		<title>グラフィック要素の挿入と書式設定</title>
+		<text>見出し「■旅程表」内のSmartArtグラフィックの色を「カラフル-アクセント2から3」に変更してください。</text>
+	</examItem>
+	<examItem idx="11" standard="3" task="5" project="2" keyword="段落番号">
+		<fname>5-11.docx</fname>
+		<title>表やリストの管理</title>
+		<text>見出し「■その他」内の「トイレ休憩については、…」から「…ご了承下さい。」までの段落に「（ア）（イ）（ウ）」の段落番号を設定してください。</text>
+	</examItem>
+	<examItem idx="12" standard="5" task="6" project="2" keyword="3Dモデル">
+		<fname>5-12.docx</fname> 
+		<title>グラフィック要素の挿入と書式設定</title>
+		<text>文末にフォルダー「3Dオブジェクト」または「3D Objects」のフォルダー「MOS-Word 365 2019（2）」の3Dモデル「bus」を挿入し、ビューを「左上背面」に変更してください。</text>
+	</examItem>
+	<examItem idx="13" standard="4" task="1" project="3" keyword="資料文献">
+		<fname>5-13.docx</fname>
+		<title>参考資料の作成と管理</title>
+		<text>このプロジェクトの問題は1つです。
+		あなたは、セキュリティセミナーで使用する資料を作成します。
+		新しく資料文献を作成してください。文献の種類は「書籍」、著者「{US}中沢晴人{UE}」、タイトル「{US}守ろう個人情報{UE}」、年「{US}2019{UE}」、発行元「{US}FOM学園出版{UE}」とします。作成した資料文献は、見出し「個人情報とは何か」内の「具体的には…あたります。」の後ろに引用文献として挿入してください。</text>
+	</examItem>
+	<examItem idx="14" standard="2" task="1" project="4" keyword="行間">
+		<fname>5-14.docx</fname>
+		<title>文字、段落、セクションの挿入と書式設定</title>
+		<text>あなたは、勤務先の不動産会社が取り扱う横浜市沿線別住宅情報を作成します。
+		「当社が自信をもって…」から「…ご案内いたします。」までの行間を1.25行に設定してください。</text>
+	</examItem>
+	<examItem idx="15" standard="3" task="2" project="4" keyword="表">
+		<fname>5-15.docx</fname>
+		<title>表やリストの管理</title>
+		<text>表が複数ページで構成された場合でもタイトル行が次のページに表示されないように設定してください。</text>
+	</examItem>
+	<examItem idx="16" standard="3" task="3" project="4" keyword="表">
+		<fname>5-16.docx</fname>
+		<title>表やリストの管理</title>
+		<text>表のタイトル行を除くセルの上下の余白を「0.5mm」に設定してください。</text>
+	</examItem>
+	<examItem idx="17" standard="1" task="4" project="4" keyword="隠し文字">
+		<fname>5-17.docx</fname>
+		<title>文書の管理</title>
+		<text>「【補足】…」の段落を隠し文字に設定してください。</text>
+	</examItem>
+	<examItem idx="18" standard="1" task="5" project="4" keyword="フッター">
+		<fname>5-18.docx</fname>
+		<title>文書の管理</title>
+		<text>フッターに会社のプレースホルダーを挿入し、右揃えで表示してください。会社は文書のプロパティにあらかじめ設定されています。</text>
+	</examItem>
+	<examItem idx="19" standard="5" task="1" project="5" keyword="図形">
+		<fname>5-19.docx</fname>
+		<title>グラフィック要素の挿入と書式設定</title>
+		<text>あなたは、ランチメニューのチラシを作成します。
+		図形内の文字列を「{US}11月{UE}」に変更してください。数字は半角で入力します。</text>
+	</examItem>
+	<examItem idx="20" standard="5" task="2" project="5" keyword="図形">
+		<fname>5-20.docx</fname>
+		<title>グラフィック要素の挿入と書式設定</title>
+		<text>図形に、効果「光彩:8pt;オレンジ、アクセントカラー2」を適用してください。</text>
+	</examItem>
+	<examItem idx="21" standard="1" task="3" project="5" keyword="検索">
+		<fname>5-21.docx</fname>
+		<title>文書の管理</title>
+		<text>文書内の「{US}予約{UE}」を検索して、検索した文字列を含む段落に太字を設定してください。</text>
+	</examItem>
+	<examItem idx="22" standard="3" task="4" project="5" keyword="表">
+		<fname>5-22.docx</fname>
+		<title>表やリストの管理</title>
+		<text>「16日（月）」の行から表を分割してください。分割した下の表の上に、「{US}Next Week Lunch{UE}」と入力し、「This Week Lunch」の書式をコピーしてください。</text>
+	</examItem>
+	<examItem idx="23" standard="5" task="5" project="5" keyword="図">
+		<fname>5-23.docx</fname>
+		<title>グラフィック要素の挿入と書式設定</title>
+		<text>地図の高さを「52mm」に設定してください。</text>
+	</examItem>
+	<examItem idx="24" standard="3" task="1" project="6" keyword="段落番号">
+		<fname>5-24.docx</fname>
+		<title>表やリストの管理</title>
+		<text>このプロジェクトの問題は1つです。
+		あなたは、レストランのパーティープランの案内を作成します。
+		表の2列目、3列目の段落番号が、1から順になるように振り直してください。</text>
+	</examItem>
+	<examItem idx="25" standard="1" task="1" project="7" keyword="透かし">
+		<fname>5-25.docx</fname>
+		<title>文書の管理</title>
+		<text>あなたは、キーマ・カレーのレシピを作成します。
+		ページの背景にある透かし「サンプル」を削除してください。</text>
+	</examItem>
+	<examItem idx="26" standard="2" task="2" project="7" keyword="段組み">
+		<fname>5-26.docx</fname>
+		<title>文字、段落、セクションの挿入と書式設定</title>
+		<text>見出し「【材　料】…」内の「カレーベース　50g」から「塩　少々」までの段組みを3段に変更してください。</text>
+	</examItem>
+	<examItem idx="27" standard="3" task="3" project="7" keyword="段落番号">
+		<fname>5-27.docx</fname>
+		<title>表やリストの管理</title>
+		<text>見出し「【作り方】」内の「①　厚手のなべに…」の開始番号が「③」から始まるように変更してください。また、「①　お好みで…」の開始番号が「⑩」から始まるように変更してください。</text>
+	</examItem>
+	<examItem idx="28" standard="5" task="4" project="7" keyword="図">
+		<fname>5-28.docx</fname>
+		<title>グラフィック要素の挿入と書式設定</title>
+		<text>カレーの写真に、影の効果「オフセット：右下」を設定し、段を基準にして右揃え、余白を基準にして下方向の距離「120mm」に配置してください。</text>
+	</examItem>
+	<examItem idx="29" standard="4" task="5" project="7" keyword="脚注・文末脚注">
+		<fname>5-29.docx</fname>
+		<title>参考資料の作成と管理</title>
+		<text>脚注の番号書式を「A,B,C,…」に変更してください。脚注のレイアウトは2段にし、変更は文書全体に反映します。</text>
+	</examItem>
+	<examItem idx="30" standard="6" task="6" project="7" keyword="変更履歴">
+		<fname>5-30.docx</fname>
+		<title>文書の共同作業の管理</title>
+		<text>挿入された箇所が明るい緑の色のみで表示されるように変更履歴を設定し、見出し「2．調理」内の「合挽肉を③に加えて」の後ろに「{US}中火で{UE}」を追加してください。変更した内容は記録します。ただし、記録は終了して終わること。</text>
+	</examItem>
+	<examItem idx="31" standard="1" task="1" project="8" keyword="ページ設定">
+		<fname>5-31.docx</fname>
+		<title>文書の管理</title>
+		<text>あなたは、地域の住民に向けて、清掃イベントの案内を作成します。
+		用紙サイズを「A4」に設定してください。</text>
+	</examItem>
+	<examItem idx="32" standard="1" task="2" project="8" keyword="ページの色">
+		<fname>5-32.docx</fname>
+		<title>文書の管理</title>
+		<text>ページの色を「ゴールド、アクセント4、白＋基本色80%」に設定してください。</text>
+	</examItem>
+	<examItem idx="33" standard="2" task="3" project="8" keyword="置換">
+		<fname>5-33.docx</fname>
+		<title>文字、段落、セクションの挿入と書式設定</title>
+		<text>文書内の半角のスペースをすべて削除してください。</text>
+	</examItem>
+	<examItem idx="34" standard="5" task="4" project="8" keyword="図">
+		<fname>5-34.docx</fname>
+		<title>グラフィック要素の挿入と書式設定</title>
+		<text>イラストの明るさを「+20%」、コントラストを「-20%」に設定してください。</text>
+	</examItem>
+	<examItem idx="35" standard="5" task="5" project="8" keyword="テキストボックス">
+		<fname>5-35.docx</fname>
+		<title>グラフィック要素の挿入と書式設定</title>
+		<text>文末のテキストボックスの文字列の折り返しを四角形に設定し、余白を基準として中央下に配置してください。</text>
+	</examItem>
+</root>

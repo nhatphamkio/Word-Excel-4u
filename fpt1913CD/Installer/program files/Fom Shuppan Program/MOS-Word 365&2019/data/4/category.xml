@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<root>
+<examCategory idx="1" startItem="1"  endItem="1"  title="花火大会のお知らせ" template="mogi4-project1.docx"></examCategory>
+<examCategory idx="2" startItem="2"  endItem="7"  title="テレワーク導入セミナー" template="mogi4-project2.docx"></examCategory>
+<examCategory idx="3" startItem="8"  endItem="13" title="中堅社員スキルアップ研修" template="mogi4-project3.docx"></examCategory>
+<examCategory idx="4" startItem="14" endItem="18" title="美術館の案内" template="mogi4-project4.docx"></examCategory>
+<examCategory idx="5" startItem="19" endItem="23" title="カルチャースクール講座紹介" template="mogi4-project5.docx"></examCategory>
+<examCategory idx="6" startItem="24" endItem="29" title="ファシリティマネジメント" template="mogi4-project6.docx"></examCategory>
+<examCategory idx="7" startItem="30" endItem="34" title="保養所の案内" template="mogi4-project7.docx"></examCategory>
+<examCategory idx="8" startItem="35" endItem="35" title="スイミング検定の案内" template="mogi4-project8.doc"></examCategory>
+</root>

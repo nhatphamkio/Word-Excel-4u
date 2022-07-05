@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<root>
+		<readHead></readHead>
+		<read></read>
+	<examItem idx="1" standard="2" task="1" project="1" keyword="行間">
+		<fname>3-01.docx</fname>
+		<title>文字、段落、セクションの挿入と書式設定</title>
+		<text>あなたは、FOMヨガスクールでヨガポーズを紹介するチラシを作成します。
+		「Challenge…」の次の4つの段落に行間「1.5」を設定してください。</text>
+	</examItem>
+	<examItem idx="2" standard="5" task="2" project="1" keyword="図">
+		<fname>3-02.docx</fname>
+		<title>グラフィック要素の挿入と書式設定</title>
+		<text>画像の背景を削除して、余白に合わせて左右中央に配置してください。背景の削除は、首の後ろや手指の間の白い部分も削除します。</text>
+	</examItem>
+	<examItem idx="3" standard="5" task="3" project="1" keyword="テキストボックス">
+		<fname>3-03.docx</fname>
+		<title>グラフィック要素の挿入と書式設定</title>
+		<text>テキストボックス内の最後に文字列「{US}下半身の引き締め{UE}」を追加してください。</text>
+	</examItem>
+	<examItem idx="4" standard="6" task="4" project="1" keyword="コメント">
+		<fname>3-04.docx</fname>
+		<title>文書の共同作業の管理</title>
+		<text>コメントを解決してください。</text>
+	</examItem>
+	<examItem idx="5" standard="1" task="5" project="1" keyword="ページ罫線">
+		<fname>3-05.docx</fname>
+		<title>文書の管理</title>
+		<text>文書に「波線」「水色、テキスト2」「1.5pt」「囲む」のページ罫線を設定してください。</text>
+	</examItem>
+	<examItem idx="6" standard="6" task="1" project="2" keyword="変更履歴">
+		<fname>3-06.docx</fname>
+		<title>文書の共同作業の管理</title>
+		<text>あなたは、FOMイングリッシュスクールで2020年度の開講コースの案内を作成します。
+		見出し「●目標を具体的に設定すること」の次の段落にある変更履歴をすべて承諾してください。</text>
+	</examItem>
+	<examItem idx="7" standard="2" task="2" project="2" keyword="書式のクリア">
+		<fname>3-07.docx</fname>
+		<title>文字、段落、セクションの挿入と書式設定</title>
+		<text>見出し「●毎日の負担を少なくすること」の次の段落の書式をすべて解除してください。</text>
+	</examItem>
+	<examItem idx="8" standard="5" task="3" project="2" keyword="図">
+		<fname>3-08.docx</fname>
+		<title>グラフィック要素の挿入と書式設定</title>
+		<text>受講生の写真にアート効果「カットアウト」を適用し、代替テキストに「{US}受講生の写真{UE}」を設定してください。</text>
+	</examItem>
+	<examItem idx="9" standard="2" task="4" project="2" keyword="セクション区切り">
+		<fname>3-09.docx</fname>
+		<title>文字、段落、セクションの挿入と書式設定</title>
+		<text>見出し「2020年度開講予定コース」が2ページ目の先頭に表示されるようにセクション区切りを挿入してください。2ページ目の上下の余白は「15mm」に設定します。</text>
+	</examItem>
+	<examItem idx="10" standard="3" task="5" project="2" keyword="表">
+		<fname>3-10.docx</fname>
+		<title>表やリストの管理</title>
+		<text>見出し「●TOEIC・英検コース」の下にある「コースNo.」から「C2020-007…」までの段落を、ウィンドウのサイズに合わせて8行4列の表に変換してください。さらに、表を「コースNo.」の昇順に並べ替えてください。（その他は既定の設定のままとします。）</text>
+	</examItem>
+	<examItem idx="11" standard="2" task="6" project="2" keyword="記号と特殊文字">
+		<fname>3-11.docx</fname>
+		<title>文字、段落、セクションの挿入と書式設定</title>
+		<text>文書内のすべての「{US}TOEIC{UE}」の後ろに、「{REGMARK}」（登録商標）を挿入してください。</text>
+	</examItem>
+	<examItem idx="12" standard="1" task="1" project="3" keyword="保存">
+		<fname>3-12.docx</fname>
+		<title>文書の管理</title>
+		<text>このプロジェクトの問題は1つです。
+		あなたは、施設利用申込書を作成します。
+		ヘッダーに文字列「{US}施設管理課行{UE}」を挿入してください。次に、最新のWordの機能と互換性があり、マクロをサポートしていない、Word 2019のテンプレートとして「{US}申込書{UE}」という名前で保存してください。デスクトップのフォルダー「FOM Shuppan Documents」のフォルダー「MOS-Word 365 2019（2）」に保存します。</text>
+	</examItem>
+	<examItem idx="13" standard="4" task="1" project="4" keyword="引用文献">
+		<fname>3-13.docx</fname>
+		<title>参考資料の作成と管理</title>
+		<text>あなたは、若者における方言の認識についてのレポートを作成します。
+		「若者の中で方言が廃れていると言われることがよくある。」の後ろに、引用文献のプレースホルダーを挿入してください。プレースホルダー名は「{US}若者と方言{UE}」とします。</text>
+	</examItem>
+	<examItem idx="14" standard="3" task="2" project="4" keyword="段落番号">
+		<fname>3-14.docx</fname>
+		<title>表やリストの管理</title>
+		<text>見出し「調査方法」内の段落番号を順番どおりに振り直してください。</text>
+	</examItem>
+	<examItem idx="15" standard="4" task="3" project="4" keyword="脚注・文末脚注">
+		<fname>3-15.docx</fname>
+		<title>参考資料の作成と管理</title>
+		<text>見出し「調査方法」内の「岡山県出身・在住であること」の後ろに、文末脚注を挿入してください。脚注番号は「A,B,C,…」とし、脚注の内容は「{US}在住期間は5年以上とする。{UE}」とします。数字は半角で入力します。</text>
+	</examItem>
+	<examItem idx="16" standard="3" task="4" project="4" keyword="表">
+		<fname>3-16.docx</fname>
+		<title>表やリストの管理</title>
+		<text>表の「●岡山全域で…」の行と「●特に…」のそれぞれのセルを結合してください。さらに、表のタイトル行が次のページにも表示されるように設定してください。</text>
+	</examItem>
+	<examItem idx="17" standard="5" task="5" project="4" keyword="SmartArtグラフィック">
+		<fname>3-17.docx</fname>
+		<title>グラフィック要素の挿入と書式設定</title>
+		<text>SmartArtグラフィックのレイアウトを右から左に変更してください。</text>
+	</examItem>
+	<examItem idx="18" standard="2" task="6" project="4" keyword="置換">
+		<fname>3-18.docx</fname>
+		<title>文字、段落、セクションの挿入と書式設定</title>
+		<text>文書内の「{US}マスコミ{UE}」を全角の「{US}メディア{UE}」にすべて置換してください。</text>
+	</examItem>
+	<examItem idx="19" standard="2" task="1" project="5" keyword="段組み">
+		<fname>3-19.docx</fname>
+		<title>文字、段落、セクションの挿入と書式設定</title>
+		<text>あなたは、こどもスキー教室の参加者募集の案内を作成します。
+		見出し「■詳細」から見出し「■教室日程」の「第5回：…」までの段落を境界線のある2段組みに設定してください。段の間隔は「4字」に設定します。</text>
+	</examItem>
+	<examItem idx="20" standard="6" task="2" project="5" keyword="コメント">
+		<fname>3-20.docx</fname>
+		<title>文書の共同作業の管理</title>
+		<text>見出し「■申し込みについて」に「{US}保護者説明会の実施を検討してください。{UE}」とコメントを追加してください。</text>
+	</examItem>
+	<examItem idx="21" standard="5" task="3" project="5" keyword="図">
+		<fname>3-21.docx</fname>
+		<title>グラフィック要素の挿入と書式設定</title>
+		<text>見出し「■申し込みについて」の後ろに、デスクトップのフォルダー「FOM Shuppan Documents」のフォルダー「MOS-Word 365 2019（2）」の図「スキー」を挿入してください。文字列の折り返しは四角形に設定し、ページ上部の右側に配置します。さらに、スタイル「回転、白」を適用してください。</text>
+	</examItem>
+	<examItem idx="22" standard="3" task="4" project="5" keyword="表">
+		<fname>3-22.docx</fname>
+		<title>表やリストの管理</title>
+		<text>文末に5行2列の表を作成し、1列目に上から「{US}参加者氏名{UE}」「{US}学年{UE}」「{US}保護者氏名{UE}」「{US}住所{UE}」「{US}電話番号{UE}」と入力してください。1列目の列幅は「40mm」にします。</text>
+	</examItem>
+	<examItem idx="23" standard="1" task="5" project="5" keyword="文書のプロパティ">
+		<fname>3-23.docx</fname>
+		<title>文書の管理</title>
+		<text>文書のプロパティのタイトルに「{US}こどもスキー教室{UE}」、キーワードに「{US}冬休み{UE}」を設定してください。カタカナは全角で入力します。</text>
+	</examItem>
+	<examItem idx="24" standard="1" task="1" project="6" keyword="スタイルセット">
+		<fname>3-24.docx</fname>
+		<title>文書の管理</title>
+		<text>あなたは、新築マンションの販売開始の案内を作成します。
+		文書にスタイルセット「基本（シンプル）」を設定してください。</text>
+	</examItem>
+	<examItem idx="25" standard="2" task="2" project="6" keyword="インデント">
+		<fname>3-25.docx</fname>
+		<title>文字、段落、セクションの挿入と書式設定</title>
+		<text>表題「ホリスガーデン緑ヶ丘販売開始」の下2つの段落の左右のインデントを「2.5字」に設定してください。</text>
+	</examItem>
+	<examItem idx="26" standard="3" task="3" project="6" keyword="箇条書き">
+		<fname>3-26.docx</fname>
+		<title>表やリストの管理</title>
+		<text>見出し「物件詳細」の下にある箇条書き「所在地」「交通」「敷地面積」「総戸数」「間取り」「専有床面積」「販売価格」の行頭文字を、デスクトップのフォルダー「FOM Shuppan Documents」のフォルダー「MOS-Word 365 2019（2）」の図「マーク」に変更してください。</text>
+	</examItem>
+	<examItem idx="27" standard="5" task="4" project="6" keyword="テキストボックス">
+		<fname>3-27.docx</fname>
+		<title>グラフィック要素の挿入と書式設定</title>
+		<text>「お問い合わせ先」から「定休日　水曜日」までの段落を横書きテキストボックスに変更してください。文字列の折り返しは四角形に設定し、ページ下部の右側に配置します。さらに、テキストボックスの枠線は、色「緑、アクセント6、黒＋基本色50％」、太さ「3pt」に設定します。テキストボックスの大きさは考慮しません。</text>
+	</examItem>
+	<examItem idx="28" standard="6" task="5" project="6" keyword="変更履歴">
+		<fname>3-28.docx</fname>
+		<title>文書の共同作業の管理</title>
+		<text>書式が変更された箇所が明るい緑の色のみで表示されるように変更履歴を設定し、「～2020年4月…」の段落を斜体にしてください。変更した内容は記録します。ただし、記録は終了して終わること。</text>
+	</examItem>
+	<examItem idx="29" standard="1" task="1" project="7" keyword="アクセシビリティチェック">
+		<fname>3-29.docx</fname>
+		<title>文書の管理</title>
+		<text>このプロジェクトの問題は1つです。
+		あなたは、桔梗学院中学・高等学校の体験入学の案内を作成します。
+		文書にアクセシビリティチェックを実行し、一番上のエラーを修正してください。図の代替テキストは「{US}生徒画像{UE}」とします。</text>
+	</examItem>
+	<examItem idx="30" standard="4" task="1" project="8" keyword="目次">
+		<fname>3-30.docx</fname>
+		<title>参考資料の作成と管理</title>
+		<text>あなたは、知的財産権についての勉強会資料を作成します。
+		「企業活動を行う上で…」の段落の次の行に自動作成の目次1を挿入してください。</text>
+	</examItem>
+	<examItem idx="31" standard="2" task="2" project="8" keyword="書式のコピー">
+		<fname>3-31.docx</fname>
+		<title>文字、段落、セクションの挿入と書式設定</title>
+		<text>見出し「1.知的財産権」の下の段落の書式を、見出し「2.著作権」の下の段落と「3.産業財産権」の下の段落にコピーしてください。</text>
+	</examItem>
+	<examItem idx="32" standard="5" task="3" project="8" keyword="SmartArtグラフィック">
+		<fname>3-32.docx</fname>
+		<title>グラフィック要素の挿入と書式設定</title>
+		<text>見出し「1.知的財産権」内の「知的財産権は、次のように分類できます。」の下に、SmartArtグラフィックの横方向階層を挿入してください。テキストウィンドウの上から「{US}知的財産権{UE}」「{US}著作権{UE}」「{US}著作者人格権{UE}」「{US}著作財産権{UE}」「{US}産業財産権{UE}」「{US}特許権{UE}」と入力し、特許権に続けて「{US}実用新案権{UE}」「{US}意匠権{UE}」「{US}商標権{UE}」を追加してください。ただし、階層のレベルは変更しないこと。次に、図表の高さを「149mm」に設定し、スタイル「光沢」を適用してください。</text>
+	</examItem>
+	<examItem idx="33" standard="3" task="4" project="8" keyword="箇条書き">
+		<fname>3-33.docx</fname>
+		<title>表やリストの管理</title>
+		<text>見出し「（1）著作者人格権」内の「公表権」から「…改変されない権利」までの段落に箇条書きを設定し、「公表時期や…」「公表時の…」「著作物を…」の3つの段落のレベルをレベル2に設定してください。</text>
+	</examItem>
+	<examItem idx="34" standard="6" task="5" project="8" keyword="コメント">
+		<fname>3-34.docx</fname>
+		<title>文書の共同作業の管理</title>
+		<text>「管理部）大村」のコメントだけを表示してください。</text>
+	</examItem>
+	<examItem idx="35" standard="1" task="6" project="8" keyword="ドキュメント検査">
+		<fname>3-35.docx</fname>
+		<title>文書の管理</title>
+		<text>ドキュメント検査を行い、隠し文字をすべて削除してください。その他の項目は削除しないこと。</text>
+	</examItem>
+</root>

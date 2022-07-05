@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<root>
+		<readHead></readHead>
+		<read></read>
+	<examItem idx="1" standard="1" task="1" project="1" keyword="保存">
+		<fname>4-01.docx</fname>
+		<title>文書の管理</title>
+		<text>このプロジェクトの問題は1つです。
+		あなたは、花火大会開催の案内はがきを作成します。
+		文書の余白を「狭い」に設定し、文書に「{US}花火大会{UE}」と名前を付けてデスクトップのフォルダー「FOM Shuppan Documents」のフォルダー「MOS-Word 365 2019（2）」に、PDF形式で保存してください。発行後にファイルは開かないようにします。</text>
+	</examItem>
+	<examItem idx="2" standard="2" task="1" project="2" keyword="インデント">
+		<fname>4-02.docx</fname>
+		<title>文字、段落、セクションの挿入と書式設定</title>
+		<text>あなたは、自社の会員に向けたセミナー開催の案内を作成します。
+		「近年…」から「…お申し込みください。」までの段落の字下げインデントを「1字」に設定してください。</text>
+	</examItem>
+	<examItem idx="3" standard="3" task="2" project="2" keyword="箇条書き">
+		<fname>4-03.docx</fname>
+		<title>表やリストの管理</title>
+		<text>記書きの「日時…」から「…南区民会館」までの段落に箇条書きを設定してください。行頭文字は、フォント「Segoe UI」の文字コード「{US}2663{UE}」（Black Club Suit）にします。</text>
+	</examItem>
+	<examItem idx="4" standard="5" task="3" project="2" keyword="図">
+		<fname>4-04.docx</fname>
+		<title>グラフィック要素の挿入と書式設定</title>
+		<text>会場地図の画像の枠線を削除してください。</text>
+	</examItem>
+	<examItem idx="5" standard="5" task="4" project="2" keyword="図形">
+		<fname>4-05.docx</fname>
+		<title>グラフィック要素の挿入と書式設定</title>
+		<text>会場地図の赤い四角の右横に図形「四角形：対角を丸める」を挿入し、「{US}南区民会館{UE}」と入力してください。図形の高さを「13mm」、幅を「26mm」に設定します。</text>
+	</examItem>
+	<examItem idx="6" standard="1" task="5" project="2" keyword="透かし">
+		<fname>4-06.docx</fname>
+		<title>文書の管理</title>
+		<text>文書に「原本」という透かし文字を挿入してください。フォントを「MS明朝」、色を「濃い赤」にします。</text>
+	</examItem>
+	<examItem idx="7" standard="6" task="6" project="2" keyword="コメント">
+		<fname>4-07.docx</fname>
+		<title>文書の共同作業の管理</title>
+		<text>文書内のコメントに「{US}了解しました。{UE}」と返信してください。</text>
+	</examItem>
+	<examItem idx="8" standard="5" task="1" project="3" keyword="図形">
+		<fname>4-08.docx</fname>
+		<title>グラフィック要素の挿入と書式設定</title>
+		<text>あなたは、中堅社員スキルアップ研修の案内を作成します。
+		タイトル「中堅社員スキルアップ研修の案内」の図形にスタイル「パステル-青、アクセント5」を適用してください。</text>
+	</examItem>
+	<examItem idx="9" standard="3" task="2" project="3" keyword="表">
+		<fname>4-09.docx</fname>
+		<title>表やリストの管理</title>
+		<text>見出し「◆スケジュール◆」内にある表の4行2列目のセルを2列に分割し、右側のセルに「{US}実習B{UE}」と入力してください。英字は半角で入力します。</text>
+	</examItem>
+	<examItem idx="10" standard="2" task="3" project="3" keyword="段落の間隔">
+		<fname>4-10.docx</fname>
+		<title>文字、段落、セクションの挿入と書式設定</title>
+		<text>見出し「◆スケジュール◆」内の「※昼食は各自で…」の段落前の間隔を削除してください。</text>
+	</examItem>
+	<examItem idx="11" standard="2" task="4" project="3" keyword="改ページ">
+		<fname>4-11.docx</fname>
+		<title>文字、段落、セクションの挿入と書式設定</title>
+		<text>見出し「◆出席予定者一覧◆」の先頭に改ページを挿入してください。</text>
+	</examItem>
+	<examItem idx="12" standard="1" task="5" project="3" keyword="ブックマーク">
+		<fname>4-12.docx</fname>
+		<title>文書の管理</title>
+		<text>見出し「◆出席予定者一覧◆」にブックマーク「{US}出席予定者{UE}」を挿入してください。</text>
+	</examItem>
+	<examItem idx="13" standard="3" task="6" project="3" keyword="表">
+		<fname>4-13.docx</fname>
+		<title>表やリストの管理</title>
+		<text>見出し「◆出席予定者一覧◆」の下の表を「受講日程」の昇順、さらに「所属」の昇順に並べ替えてください。（その他は既定の設定のままとします。）</text>
+	</examItem>
+	<examItem idx="14" standard="5" task="1" project="4" keyword="図">
+		<fname>4-14.docx</fname>
+		<title>グラフィック要素の挿入と書式設定</title>
+		<text>あなたは、新しく開館した美術館の案内を作成します。
+		写真に、面取りの効果「スケール」を設定し、最背面へ移動してください。</text>
+	</examItem>
+	<examItem idx="15" standard="2" task="2" project="4" keyword="記号と特殊文字">
+		<fname>4-15.docx</fname>
+		<title>文字、段落、セクションの挿入と書式設定</title>
+		<text>1ページ目の「藤城正孝」と「宮野里美」の後ろに、それぞれ4分の1文字分のスペースを挿入してください。</text>
+	</examItem>
+	<examItem idx="16" standard="4" task="3" project="4" keyword="脚注・文末脚注">
+		<fname>4-16.docx</fname>
+		<title>参考資料の作成と管理</title>
+		<text>「休館日　月曜日」の後ろに脚注を挿入してください。脚注の内容は「{US}祝日の場合は開館し、翌日休館します。{UE}」とします。</text>
+	</examItem>
+	<examItem idx="17" standard="3" task="4" project="4" keyword="表">
+		<fname>4-17.docx</fname>
+		<title>表やリストの管理</title>
+		<text>「●入館料」の下にある表のセルの間隔を「0.4mm」に設定してください。</text>
+	</examItem>
+	<examItem idx="18" standard="1" task="5" project="4" keyword="ハイパーリンク">
+		<fname>4-18.docx</fname>
+		<title>文書の管理</title>
+		<text>「別ページ」に設定されているハイパーリンクを削除してください。文字列は削除しないようにします。</text>
+	</examItem>
+	<examItem idx="19" standard="3" task="1" project="5" keyword="箇条書き">
+		<fname>4-19.docx</fname>
+		<title>表やリストの管理</title>
+		<text>あなたは、カルチャースクールの受講生募集のチラシを作成します。
+		表内の箇条書きの行頭文字をすべて「◆」に変更してください。</text>
+	</examItem>
+	<examItem idx="20" standard="5" task="2" project="5" keyword="図">
+		<fname>4-20.docx</fname>
+		<title>グラフィック要素の挿入と書式設定</title>
+		<text>プリザーブドフラワーのイラストを「彩度：200％」にしてください。</text>
+	</examItem>
+	<examItem idx="21" standard="3" task="3" project="5" keyword="表">
+		<fname>4-21.docx</fname>
+		<title>表やリストの管理</title>
+		<text>表を行単位で分割して3つの表にしてください。</text>
+	</examItem>
+	<examItem idx="22" standard="1" task="4" project="5" keyword="フッター">
+		<fname>4-22.docx</fname>
+		<title>文書の管理</title>
+		<text>フッターに「{US}秋の新講座{UE}」を挿入してください。フッターは右にそろえて配置します。</text>
+	</examItem>
+	<examItem idx="23" standard="6" task="5" project="5" keyword="変更履歴">
+		<fname>4-23.docx</fname>
+		<title>文書の共同作業の管理</title>
+		<text>変更履歴の記録を開始し、「★ワンポイント旅行英会話★」の表内の「トラベル英会話」を「{US}旅行英会話{UE}」に修正してください。その後、変更履歴の記録を終了してください。</text>
+	</examItem>
+	<examItem idx="24" standard="5" task="1" project="6" keyword="SmartArtグラフィック">
+		<fname>4-24.docx</fname>
+		<title>グラフィック要素の挿入と書式設定</title>
+		<text>あなたは、ファシリティマネジメントの勉強会で使用する資料を作成します。
+		見出し「1.ファシリティマネジメントの目的と考え方」の最後の「…2つがあります。」の次の空の段落に、SmartArtグラフィックの「表型リスト」を挿入してください。テキストウィンドウの1行目に「{US}ファシリティマネジメント{UE}」、2行目に「{US}施設や設備の管理{UE}」、3行目に「{US}施設や設備の維持保全{UE}」と入力し、不要な行は削除してください。SmartArtグラフィックは、高さ「42mm」、幅「153mm」とします。</text>
+	</examItem>
+	<examItem idx="25" standard="3" task="2" project="6" keyword="表">
+		<fname>4-25.docx</fname>
+		<title>表やリストの管理</title>
+		<text>見出し「2.施設や設備の管理」内の表を文字列に変換してください。文字列はカンマで区切ります。</text>
+	</examItem>
+	<examItem idx="26" standard="2" task="3" project="6" keyword="書式のクリア">
+		<fname>4-26.docx</fname>
+		<title>文字、段落、セクションの挿入と書式設定</title>
+		<text>見出し「(2)セキュリティ対策」内の「●セキュリティワイヤ」の下の段落にある「セキュリティワイヤ」の書式を解除してください。</text>
+	</examItem>
+	<examItem idx="27" standard="4" task="4" project="6" keyword="目次">
+		<fname>4-27.docx</fname>
+		<title>参考資料の作成と管理</title>
+		<text>見出し「4.環境対策」とその下の本文を削除し、目次を更新してください。</text>
+	</examItem>
+	<examItem idx="28" standard="6" task="5" project="6" keyword="コメント">
+		<fname>4-28.docx</fname>
+		<title>文書の共同作業の管理</title>
+		<text>「総務部に…」で始まるコメントを削除してください。</text>
+	</examItem>
+	<examItem idx="29" standard="1" task="6" project="6" keyword="文書のプロパティ">
+		<fname>4-29.docx</fname>
+		<title>文書の管理</title>
+		<text>文書のプロパティのキーワードに「{US}勉強会{UE}」と「{US}ファシリティマネジメント{UE}」を設定してください。カタカナは全角で入力します。</text>
+	</examItem>
+	<examItem idx="30" standard="5" task="1" project="7" keyword="SmartArtグラフィック">
+		<fname>4-30.docx</fname>
+		<title>グラフィック要素の挿入と書式設定</title>
+		<text>あなたは、八ヶ岳にある保養所の案内チラシを作成します。
+		見出し「ご予約の流れ」内のSmartArtグラフィックの図形が、左から「予約申込書に記入して送付」「予約センターから電話確認」「予約完了」と表示されるように、順序を入れ替えてください。</text>
+	</examItem>
+	<examItem idx="31" standard="1" task="2" project="7" keyword="ジャンプ">
+		<fname>4-31.docx</fname>
+		<title>文書の管理</title>
+		<text>ブックマーク「空室情報」を使ってジャンプし、「6月　空室情報」にスタイル「見出し1」を設定してください。</text>
+	</examItem>
+	<examItem idx="32" standard="2" task="3" project="7" keyword="ページ設定">
+		<fname>4-32.docx</fname>
+		<title>文字、段落、セクションの挿入と書式設定</title>
+		<text>2ページ目の印刷の向きを横に設定してください。</text>
+	</examItem>
+	<examItem idx="33" standard="3" task="4" project="7" keyword="表">
+		<fname>4-33.docx</fname>
+		<title>表やリストの管理</title>
+		<text>「6月　空室情報」内の「部屋タイプ…」以降の9つの段落を、文字列の幅に合わせて表に変換してください。</text>
+	</examItem>
+	<examItem idx="34" standard="4" task="5" project="7" keyword="脚注・文末脚注">
+		<fname>4-34.docx</fname>
+		<title>参考資料の作成と管理</title>
+		<text>文書内の脚注を文末脚注に変更してください。</text>
+	</examItem>
+	<examItem idx="35" standard="1" task="1" project="8" keyword="ファイル形式の変換">
+		<fname>4-35.doc</fname>
+		<title>文書の管理</title>
+		<text>このプロジェクトの問題は1つです。
+		あなたは、子ども向けスイミング検定の案内を作成します。
+		文書のヘッダーを削除してください。次に、開かれている文書を最新のファイル形式に変換してください。メッセージが表示された場合はOKをクリックします。</text>
+	</examItem>
+</root>

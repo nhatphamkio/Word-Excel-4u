@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<root>
+		<readHead></readHead>
+		<read></read>
+	<examItem idx="1" standard="2" task="1" project="1" keyword="行間">
+		<fname>1-01.docx</fname>
+		<title>文字、段落、セクションの挿入と書式設定</title>
+		<text>あなたは、通信販売会社の新商品の案内を作成します。
+		「お届け期間…」の下2つの段落の行間を固定値「20pt」に設定してください。</text>
+	</examItem>
+	<examItem idx="2" standard="3" task="2" project="1" keyword="表">
+		<fname>1-02.docx</fname>
+		<title>表やリストの管理</title>
+		<text>表を文字列に変換してください。文字列は段落記号で区切ります。</text>
+	</examItem>
+	<examItem idx="3" standard="5" task="3" project="1" keyword="図">
+		<fname>1-03.docx</fname>
+		<title>グラフィック要素の挿入と書式設定</title>
+		<text>「コースNo.H001」の下の空の段落に、デスクトップのフォルダー「FOM Shuppan Documents」のフォルダー「MOS-Word 365 2019（2）」の図「たらこ」を挿入し、文字列の折り返しを四角形に設定してください。同様に、「コースNo.H002」の下の空の段落に図「パン」を、「コースNo.H003」の下の空の段落に図「餃子」を挿入し、文字列の折り返しを四角形に設定します。</text>
+	</examItem>
+	<examItem idx="4" standard="2" task="4" project="1" keyword="書式のコピー">
+		<fname>1-04.docx</fname>
+		<title>文字、段落、セクションの挿入と書式設定</title>
+		<text>「↓FAX↓」に設定されている書式を、「↓TEL↓」「↓メール↓」「↓ホームページ↓」にコピーしてください。</text>
+	</examItem>
+	<examItem idx="5" standard="6" task="5" project="1" keyword="変更履歴">
+		<fname>1-05.docx</fname>
+		<title>文書の共同作業の管理</title>
+		<text>文書中の1つ目の変更履歴を承諾、2つ目の変更履歴をもとに戻してください。</text>
+	</examItem>
+	<examItem idx="6" standard="1" task="6" project="1" keyword="ページの色">
+		<fname>1-06.docx</fname>
+		<title>文書の管理</title>
+		<text>ページの色を「オレンジ、アクセント2、白＋基本色80％」に設定してください。</text>
+	</examItem>
+	<examItem idx="7" standard="4" task="1" project="2" keyword="引用文献">
+		<fname>1-07.docx</fname>
+		<title>参考資料の作成と管理</title>
+		<text>あなたは、定期刊行物「わかば市防犯インフォメーション」を作成します。
+		見出し「わかば市の被害事例紹介」の後ろに引用文献を挿入してください。文献の種類「インタビュー」、インタビュー対象者「{US}わかば警察署長{UE}」、インタビュー質問者「{US}危機管理課長{UE}」、年「{US}2020{UE}」、月「{US}6{UE}」、日「{US}15{UE}」とし、資料文献にも登録します。年月日は半角で入力します。</text>
+	</examItem>
+	<examItem idx="8" standard="2" task="2" project="2" keyword="インデント">
+		<fname>1-08.docx</fname>
+		<title>文字、段落、セクションの挿入と書式設定</title>
+		<text>見出し「わかば市の被害事例紹介」内の事例1、事例2、事例3の段落の右インデントを解除してください。</text>
+	</examItem>
+	<examItem idx="9" standard="5" task="3" project="2" keyword="図">
+		<fname>1-09.docx</fname>
+		<title>グラフィック要素の挿入と書式設定</title>
+		<text>鍵をかけている写真の右側だけに文字列が表示されるように設定してください。文字列の折り返しを四角形に設定し、写真と文字列の間隔は「7mm」とします。</text>
+	</examItem>
+	<examItem idx="10" standard="3" task="4" project="2" keyword="箇条書き">
+		<fname>1-10.docx</fname>
+		<title>表やリストの管理</title>
+		<text>見出し「防犯講座を開催！」内の「会場…」「受講資格…」「申込期間…」「講座プログラム」「申込方法」の段落に箇条書きを設定してください。行頭文字は、フォント「Segoe UI」の文字コード「{US}25D9{UE}」（Inverse White Circle）にします。</text>
+	</examItem>
+	<examItem idx="11" standard="1" task="5" project="2" keyword="ジャンプ">
+		<fname>1-11.docx</fname>
+		<title>文書の管理</title>
+		<text>文書内の2つ目の表にジャンプし、その表全体の行の高さを「12mm」に設定してください。</text>
+	</examItem>
+	<examItem idx="12" standard="6" task="6" project="2" keyword="コメント">
+		<fname>1-12.docx</fname>
+		<title>文書の共同作業の管理</title>
+		<text>「70か所」に挿入されているコメントに「{US}当日持参します。{UE}」と返信してください。</text>
+	</examItem>
+	<examItem idx="13" standard="2" task="1" project="3" keyword="改ページ">
+		<fname>1-13.docx</fname>
+		<title>文字、段落、セクションの挿入と書式設定</title>
+		<text>あなたは、料理教室の生徒を募集するチラシを作成します。
+		見出し「2．費用」の先頭に改ページを挿入してください。</text>
+	</examItem>
+	<examItem idx="14" standard="1" task="2" project="3" keyword="隠し文字">
+		<fname>1-14.docx</fname>
+		<title> 文書の管理</title>
+		<text>見出し「2．費用」内の「（11月から13,000円になります。）」を隠し文字に設定してください。</text>
+	</examItem>
+	<examItem idx="15" standard="3" task="3" project="3" keyword="表">
+		<fname>1-15.docx</fname>
+		<title>表やリストの管理</title>
+		<text>見出し「2．費用」内の表の1列目の列幅を「25mm」、2列目の列幅を「30mm」に設定してください。</text>
+	</examItem>
+	<examItem idx="16" standard="5" task="4" project="3" keyword="テキストボックス">
+		<fname>1-16.docx</fname>
+		<title>グラフィック要素の挿入と書式設定</title>
+		<text>見出し「4．無料体験レッスン」の画像の下に横書きテキストボックスを挿入し、文字列「{US}無料体験ご参加の方は、入会金無料{UE}」を入力してください。テキストボックスの大きさは考慮しません。</text>
+	</examItem>
+	<examItem idx="17" standard="1" task="5" project="3" keyword="目次">
+		<fname>1-17.docx</fname>
+		<title> 文書の管理</title>
+		<text>目次がレベル2まで表示されるように変更してください。</text>
+	</examItem>
+	<examItem idx="18" standard="5" task="1" project="4" keyword="3Dモデル">
+		<fname>1-18.docx</fname>
+		<title>グラフィック要素の挿入と書式設定</title>
+		<text>このプロジェクトの問題は1つです。
+		あなたは、冬休みの小学生向けイベントの案内を作成します。
+		文書の先頭にフォルダー「3Dオブジェクト」または「3D Objects」のフォルダー「MOS-Word 365 2019(2)」の3Dモデル「dice」を挿入し、文字列の折り返しを四角形に設定してください。次に、ビューを「右上背面」に変更し、高さを「45mm」に設定してください。</text>
+	</examItem>
+			<examItem idx="19" standard="1" task="1" project="5" keyword="スタイルセット">
+		<fname>1-19.docx</fname>
+		<title>文書の管理</title>
+		<text>あなたは、先日開催した給食試食会の報告書を作成します。
+文書にスタイルセット「線（ユニーク）」を設定してください。</text>
+	</examItem>
+	<examItem idx="20" standard="2" task="2" project="5" keyword="書式のクリア">
+		<fname>1-20.docx</fname>
+		<title>文字、段落、セクションの挿入と書式設定</title>
+		<text>表題「給食試食会のご報告」の下の3つの段落の書式をすべて解除してください。</text>
+	</examItem>
+	<examItem idx="21" standard="3" task="3" project="5" keyword="段落番号">
+		<fname>1-21.docx</fname>
+		<title>表やリストの管理</title>
+		<text>見出し「■献立・給食について■」の下の段落番号に続けて、見出し「■試食会について■」の下の段落番号が始まるように設定してください。1～12にします。</text>
+	</examItem>
+	<examItem idx="22" standard="2" task="4" project="5" keyword="記号と特殊文字">
+		<fname>1-22.docx</fname>
+		<title>文字、段落、セクションの挿入と書式設定</title>
+		<text>見出し「Q3子どもたちに人気のメニューを教えてください。」内の「混ぜご飯」の後ろにご飯の記号を挿入してください。フォント「Segoe UI Symbol」の文字コード「{US}1F35A{UE}」を指定します。</text>
+	</examItem>
+	<examItem idx="23" standard="5" task="5" project="5" keyword="テキストボックス">
+		<fname>1-23.docx</fname>
+		<title>グラフィック要素の挿入と書式設定</title>
+		<text>文末のテキストボックスに文字列「{US}おいしい給食、楽しく食べよう{UE}」を追加してください。</text>
+	</examItem>
+	<examItem idx="24" standard="6" task="6" project="5" keyword="変更履歴">
+		<fname>1-24.docx</fname>
+		<title>文書の共同作業の管理</title>
+		<text>挿入と削除の変更履歴をすべて拒否し、書式設定の変更履歴をすべて承諾してください。（変更履歴ウィンドウを使用した場合は終了してください。）</text>
+	</examItem>
+	<examItem idx="25" standard="2" task="1" project="6" keyword="ページ設定">
+		<fname>1-25.docx</fname>
+		<title>文字、段落、セクションの挿入と書式設定</title>
+		<text>あなたは、FOM健康保険組合に勤務しており、医療費控除の資料を作成します。
+1ページ目の余白を左右「25mm」に設定してください。</text>
+	</examItem>
+	<examItem idx="26" standard="2" task="2" project="6" keyword="文字の効果">
+		<fname>1-26.docx</fname>
+		<title>文字、段落、セクションの挿入と書式設定</title>
+		<text>表題「医療費控除」の下の段落に文字の効果「塗りつぶし：黒、文字色1；影」を設定してください。</text>
+	</examItem>
+	<examItem idx="27" standard="5" task="3" project="6" keyword="SmartArtグラフィック">
+		<fname>1-27.docx</fname>
+		<title>グラフィック要素の挿入と書式設定</title>
+		<text>見出し「(1)医療費控除額の算出方法」の下のSmartArtグラフィックに図形の効果「面取り」の「カットアウト」を設定してください。（SmartArtグラフィック全体を選択します。）</text>
+	</examItem>
+	<examItem idx="28" standard="3" task="4" project="6" keyword="表">
+		<fname>1-28.docx</fname>
+		<title>表やリストの管理</title>
+		<text>見出し「(3)条件付きで医療費控除の対象になるもの」の下の5つの段落を表にしてください。（その他は既定の設定のままとします。）</text>
+	</examItem>
+	<examItem idx="29" standard="6" task="5" project="6" keyword="コメント">
+		<fname>1-29.docx</fname>
+		<title>文書の共同作業の管理</title>
+		<text>「医療費控除額の算出方法」に挿入されているコメントを解決してください。</text>
+	</examItem>
+	<examItem idx="30" standard="1" task="1" project="7" keyword="ファイル形式の変換">
+		<fname>1-30.doc</fname>
+		<title>文書の管理</title>
+		<text>このプロジェクトの問題は1つです。
+あなたは、2分の1成人式の招待状を作成します。
+文書に「緑、アクセント6」「2.25pt」「囲む」のページ罫線を設定してください。（その他は既定の設定のままとします。）その後、文書の互換モードを解除してください。メッセージが表示された場合はOKをクリックします。</text>
+	</examItem>
+	<examItem idx="31" standard="2" task="1" project="8" keyword="行間">
+		<fname>1-31.docx</fname>
+		<title>文字、段落、セクションの挿入と書式設定</title>
+		<text>あなたは、スプリングフェアの書籍売上について報告書を作成します。
+文書全体の行間を最小値「22pt」にしてください。</text>
+	</examItem>
+	<examItem idx="32" standard="4" task="2" project="8" keyword="脚注・文末脚注">
+		<fname>1-32.docx</fname>
+		<title>参考資料の作成と管理</title>
+		<text>「スプリングフェア期間中」の後ろに脚注を挿入してください。脚注の内容は「{US}2020年4月1日～2020年5月31日{UE}」とします。数字は半角で入力します。</text>
+	</examItem>
+	<examItem idx="33" standard="3" task="3" project="8" keyword="表">
+		<fname>1-33.docx</fname>
+		<title>表やリストの管理</title>
+		<text>表を合計の高い順に並べ替えてください。（その他は既定の設定のままとします。）</text>
+	</examItem>
+	<examItem idx="34" standard="2" task="4" project="8" keyword="置換">
+		<fname>1-34.docx</fname>
+		<title>文字、段落、セクションの挿入と書式設定</title>
+		<text>文書内の「{US}【新刊】{UE}」を検索して、すべて削除してください。</text>
+	</examItem>
+	<examItem idx="35" standard="1" task="5" project="8" keyword="アクセシビリティチェック">
+		<fname>1-35.docx</fname>
+		<title>文書の管理</title>
+		<text>アクセシビリティチェックを行い、おすすめアクションの上側の修正を適用してください。</text>
+	</examItem>
+</root>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<root>
+<examCategory idx="1" startItem="1" endItem="6" title="新商品の案内" template="mogi1-project1.docx"></examCategory>
+<examCategory idx="2" startItem="7" endItem="12" title="防犯インフォメーション" template="mogi1-project2.docx"></examCategory>
+<examCategory idx="3" startItem="13" endItem="17" title="もみじ料理教室" template="mogi1-project3.docx"></examCategory>
+<examCategory idx="4" startItem="18" endItem="18" title="イベントの案内" template="mogi1-project4.docx"></examCategory>
+<examCategory idx="5" startItem="19" endItem="24" title="給食試食会" template="mogi1-project5.docx"></examCategory>
+<examCategory idx="6" startItem="25" endItem="29" title="医療費控除" template="mogi1-project6.docx"></examCategory>
+<examCategory idx="7" startItem="30" endItem="30" title="招待状" template="mogi1-project7.doc"></examCategory>
+<examCategory idx="8" startItem="31" endItem="35" title="書籍売上" template="mogi1-project8.docx"></examCategory>
+</root>

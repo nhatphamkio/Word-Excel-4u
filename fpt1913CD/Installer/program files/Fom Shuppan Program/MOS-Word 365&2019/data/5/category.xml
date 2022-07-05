@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<root>
+<examCategory idx="1" startItem="1"  endItem="6"  title="食と地域経済レポート" template="mogi5-project1.docx"></examCategory>
+<examCategory idx="2" startItem="7"  endItem="12" title="バスツアーのしおり" template="mogi5-project2.docx"></examCategory>
+<examCategory idx="3" startItem="13" endItem="13" title="セキュリティセミナー資料" template="mogi5-project3.docx"></examCategory>
+<examCategory idx="4" startItem="14" endItem="18" title="住宅情報一覧" template="mogi5-project4.docx"></examCategory>
+<examCategory idx="5" startItem="19" endItem="23" title="ランチメニューの案内" template="mogi5-project5.docx"></examCategory>
+<examCategory idx="6" startItem="24" endItem="24" title="パーティープランの案内" template="mogi5-project6.docx"></examCategory>
+<examCategory idx="7" startItem="25" endItem="30" title="キーマ・カレーの作り方" template="mogi5-project7.docx"></examCategory>
+<examCategory idx="8" startItem="31" endItem="35" title="清掃イベントのちらし" template="mogi5-project8.docx"></examCategory>
+</root>

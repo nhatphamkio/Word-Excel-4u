@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<root>
+<examCategory idx="1" startItem="1"  endItem="5"  title="ヨガ紹介コラム" template="mogi3-project1.docx"></examCategory>
+<examCategory idx="2" startItem="6"  endItem="11" title="英会話スクールの開講案内" template="mogi3-project2.docx"></examCategory>
+<examCategory idx="3" startItem="12" endItem="12" title="施設利用申込書" template="mogi3-project3.docx"></examCategory>
+<examCategory idx="4" startItem="13" endItem="18" title="方言に関するレポート" template="mogi3-project4.docx"></examCategory>
+<examCategory idx="5" startItem="19" endItem="23" title="スキー教室案内" template="mogi3-project5.docx"></examCategory>
+<examCategory idx="6" startItem="24" endItem="28" title="マンション販売広告" template="mogi3-project6.docx"></examCategory>
+<examCategory idx="7" startItem="29" endItem="29" title="体験入学の案内" template="mogi3-project7.docx"></examCategory>
+<examCategory idx="8" startItem="30" endItem="35" title="知的財産権の勉強会資料" template="mogi3-project8.docx"></examCategory>
+</root>
