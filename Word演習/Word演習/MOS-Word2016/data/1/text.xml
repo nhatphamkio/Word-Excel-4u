@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<root>
+		<readHead></readHead>
+		<read></read>
+	<examItem idx="1" standard="2" task="1" project="1">
+		<fname>1-01.docx</fname>
+		<title>オートコレクト</title>
+		<text>「わばか」と入力すると「わかば」に自動的に修正されるように、オートコレクトに登録してください。次に、文書の1行目に、登録したオートコレクトを使って「わかば市」と入力してください。</text>
+	</examItem>
+	<examItem idx="2" standard="5" task="2" project="1">
+		<fname>1-02.docx</fname>
+		<title>図</title>
+		<text>1ページ目のイラストを、タイトルのすぐ下に移動してください。</text>
+	</examItem>
+	<examItem idx="3" standard="4" task="3" project="1">
+		<fname>1-03.docx</fname>
+		<title>資料文献</title>
+		<text>資料文献を編集してください。インタビュー質問者の名前を「佐々木」に、日付を「2017年6月15日」に変更します。</text>
+	</examItem>
+	<examItem idx="4" standard="2" task="4" project="1">
+		<fname>1-04.docx</fname>
+		<title>コピー</title>
+		<text>2ページ目の事例3の中にある「サムターン回し」という文字列を、「事例3＞＞」の後ろにコピーしてください。貼り付け後、書式の太字を解除し、フォントの色を自動に設定します。さらに、その段落の左インデントを解除してください。</text>
+	</examItem>
+	<examItem idx="5" standard="5" task="5" project="1">
+		<fname>1-05.docx</fname>
+		<title>図</title>
+		<text>鍵をかけている写真の右側に文字列が表示されるように設定してください。写真と文字列の間隔は、「7mm」に設定します。</text>
+	</examItem>
+	<examItem idx="6" standard="3" task="6" project="1">
+		<fname>1-06.docx</fname>
+		<title>表</title>
+		<text>文書内の2つ目の表にジャンプし、その表のすべての行の高さをそろえてください。次に、「日時」と「会場」の文字列に強調斜体のスタイルを設定してください。</text>
+	</examItem>
+	<examItem idx="7" standard="1" task="7" project="1">
+		<fname>1-07.docx</fname>
+		<title>フッター</title>
+		<text>フッター「レトロスペクト」を挿入してください。作成者は「わかば市役所危機管理課」とし、先頭ページのみ別指定にします。</text>
+	</examItem>
+	<examItem idx="8" standard="3" task="1" project="2">
+		<fname>1-08.docx</fname>
+		<title>表</title>
+		<text>表を解除してください。文字列は段落記号で区切ります。</text>
+	</examItem>
+	<examItem idx="9" standard="5" task="2" project="2">
+		<fname>1-09.docx</fname>
+		<title>図</title>
+		<text>「コースNo.H001」の下に、デスクトップのフォルダー「FOM Shuppan Documents」のフォルダー「MOS-Word2016(2)」の図「たらこ.jpg」を挿入し、文字列の折り返しを四角形に設定してください。同様に、「コースNo.H002」の下に「パン.jpg」を、「コースNo.H003」の下に「餃子.jpg」を挿入し、文字列の折り返しを四角形に設定します。</text>
+	</examItem>
+	<examItem idx="10" standard="2" task="3" project="2">
+		<fname>1-10.docx</fname>
+		<title>書式のコピー/貼り付け</title>
+		<text>「↓FAX↓」に設定されている書式を「↓TEL↓」「↓メール↓」「↓ホームページ↓」にコピーしてください。</text>
+	</examItem>
+	<examItem idx="11" standard="2" task="4" project="2">
+		<fname>1-11.docx</fname>
+		<title>文字書式</title>
+		<text>「コースNo.H001」「コースNo.H002」「コースNo.H003」に、二重下線を設定してください。下線の色は「ゴールド、アクセント4」とします。</text>
+	</examItem>
+	<examItem idx="12" standard="1" task="5" project="2">
+		<fname>1-12.docx</fname>
+		<title>透かし</title>
+		<text>ページの背景に、サンプル1の透かしを設定してください。</text>
+	</examItem>
+	<examItem idx="13" standard="2" task="1" project="3">
+		<fname>1-13.docx</fname>
+		<title>コピー</title>
+		<text>文書中の「スプリングフェア」という文字列を、タイトル「料理関連書籍…」の前にコピーしてください。貼り付け後、書式が崩れないように整えてください。</text>
+	</examItem>
+	<examItem idx="14" standard="3" task="2" project="3">
+		<fname>1-14.docx</fname>
+		<title>表</title>
+		<text>表のセルの上下の余白を「1mm」に設定してください。</text>
+	</examItem>
+	<examItem idx="15" standard="5" task="3" project="3">
+		<fname>1-15.docx</fname>
+		<title>図</title>
+		<text>グラフの文字列の折り返しを四角形に設定し、余白に合わせて中央下に配置してください。</text>
+	</examItem>
+	<examItem idx="16" standard="1" task="4" project="3">
+		<fname>1-16.docx</fname>
+		<title>互換性チェック</title>
+		<text>文書を上書き保存してください。次に、互換性をチェックし、文書に「報告書」という名前を付けて、デスクトップのフォルダー「FOM Shuppan Documents」のフォルダー「MOS-Word2016(2)」にWord97-2003形式の文書として保存してください。</text>
+	</examItem>
+	<examItem idx="17" standard="2" task="1" project="4">
+		<fname>1-17.docx</fname>
+		<title>ページ区切り</title>
+		<text>1ページ目の「●師範コース（全8回）」の段落の下にある「基礎から一つ一つ学んでいくことで…」の前に、ページ区切りの文字列の折り返しを挿入してください。</text>
+	</examItem>
+	<examItem idx="18" standard="5" task="2" project="4">
+		<fname>1-18.docx</fname>
+		<title>図形</title>
+		<text>対角を丸めた四角形に、「2.費用」の下にある「9月末までにご入会いただくと入会金が無料になります！」を切り取って貼り付けてください。次に、対角を丸めた四角形の枠線の色を「濃い緑、アクセント4、黒+基本色50％」に、太さを「2.25pt」に変更してください。</text>
+	</examItem>
+	<examItem idx="19" standard="3" task="3" project="4">
+		<fname>1-19.docx</fname>
+		<title>表</title>
+		<text>2ページ目の表の文字列をセル内で中央にそろえて配置し、セルの間隔を「1.5mm」に設定してください。さらに、「休講日」とその下の2つのセルを結合し、「コース」の列の幅を「30mm」に設定します。</text>
+	</examItem>
+	<examItem idx="20" standard="4" task="4" project="4">
+		<fname>1-20.docx</fname>
+		<title>図表番号</title>
+		<text>料理の写真の図表番号のラベルを「写真」に変更してください。</text>
+	</examItem>
+	<examItem idx="21" standard="1" task="5" project="4">
+		<fname>1-21.docx</fname>
+		<title>ファイルの挿入</title>
+		<text>料理の写真の右側のセルに、デスクトップのフォルダー「FOM Shuppan Documents」のフォルダー「MOS-Word2016(2)」の文書「無料体験レッスン.docx」を挿入してください。</text>
+	</examItem>
+	<examItem idx="22" standard="1" task="6" project="4">
+		<fname>1-22.docx</fname>
+		<title>編集記号</title>
+		<text>編集記号の隠し文字だけが表示されるように設定してください。次に、見出し「2.費用」の下にある箇条書きの隠し文字を「15,000」に修正してください。</text>
+	</examItem>
+	<examItem idx="23" standard="1" task="1" project="5">
+		<fname>1-23.docx</fname>
+		<title>ページ設定</title>
+		<text>上下の余白を「15mm」、左右の余白を「20mm」に設定してください。</text>
+	</examItem>
+	<examItem idx="24" standard="2" task="2" project="5">
+		<fname>1-24.docx</fname>
+		<title>文字書式</title>
+		<text>「かえで市小学生漢字力検定の実施について」に、二重下線と影の効果「オフセット：右」を設定してください。</text>
+	</examItem>
+	<examItem idx="25" standard="4" task="3" project="5">
+		<fname>1-25.docx</fname>
+		<title>文末脚注</title>
+		<text>本文中の「かえで市小学生漢字力検定」の後ろに文末脚注を挿入してください。内容は「かえで市独自で実施する検定です。」とし、フォントサイズは「9ポイント」に設定します。</text>
+	</examItem>
+	<examItem idx="26" standard="3" task="4" project="5">
+		<fname>1-26.docx</fname>
+		<title>段落番号 </title>
+		<text>記書きの「ねらい」「実施時期・回数」「出題範囲・内容」「その他」の段落に、段落番号「①②③」を設定してください。次に、「その他」の下にある箇条書きのレベルをレベル２に設定してください。</text>
+	</examItem>
+	<examItem idx="27" standard="3" task="5" project="5">
+		<fname>1-27.docx</fname>
+		<title>表</title>
+		<text>表を1級から表示されるように並べ替えてください。</text>
+	</examItem>
+	<examItem idx="28" standard="1" task="1" project="6">
+		<fname>1-28.docx</fname>
+		<title>ページの色</title>
+		<text>ページの色を「ゴールド、アクセント4、白＋基本色80％」に設定してください。</text>
+	</examItem>
+	<examItem idx="29" standard="5" task="2" project="6">
+		<fname>1-29.docx</fname>
+		<title>図</title>
+		<text>花の写真を用紙に合わせて右上に配置し、写真の背景を削除して花だけが表示されるようにしてください。</text>
+	</examItem>
+	<examItem idx="30" standard="2" task="3" project="6">
+		<fname>1-30.docx</fname>
+		<title>ワードアート</title>
+		<text>「ジュエリーショップ」の下の「Plumeria」の段落を、ワードアート「塗りつぶし：白；輪郭：オレンジ、アクセントカラー2；影（ぼかしなし）：オレンジ、アクセントカラー2」に変更し、フォントサイズを「50ポイント」に設定してください。</text>
+	</examItem>
+	<examItem idx="31" standard="5" task="4" project="6">
+		<fname>1-31.docx</fname>
+		<title>図</title>
+		<text>文書に、デスクトップのフォルダー「FOM Shuppan Documens」のフォルダー「MOS-Word2016（2）」の図「ショップ地図.png」を挿入してください。文字列の折り返しを四角形に設定し、余白に合わせて中央下に配置します。</text>
+	</examItem>
+	<examItem idx="32" standard="3" task="1" project="7">
+		<fname>1-32.docx</fname>
+		<title>段落番号</title>
+		<text>「8.　給食の安全性を知ることができた。」の番号を1から始まるように変更してください。</text>
+	</examItem>
+	<examItem idx="33" standard="2" task="2" project="7">
+		<fname>1-33.docx</fname>
+		<title>ページ区切り</title>
+		<text>「■栄養教諭　佐々木先生とのQ&amp;&amp;A■」から次のページに表示されるようにページを区切ってください。</text>
+	</examItem>
+	<examItem idx="34" standard="5" task="3" project="7">
+		<fname>1-34.docx</fname>
+		<title>テキストボックス</title>
+		<text>2ページ目のテキストボックスにスタイル「パステル-ゴールド、アクセント4」を適用し、余白に合わせて上下左右の中央に配置してください。</text>
+	</examItem>
+	<examItem idx="35" standard="1" task="4" project="7">
+		<fname>1-35.docx</fname>
+		<title>プロパティ</title>
+		<text>文書のプロパティのタイトルに「報告書」、キーワードに「給食試食会」を設定してください。</text>
+	</examItem>
+</root>

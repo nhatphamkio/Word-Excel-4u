@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<root>
+		<readHead></readHead>
+		<read></read>
+	<examItem idx="1" standard="5" task="1" project="1">
+		<fname>4-01.xlsx</fname>
+		<title>グラフ</title>
+		<text>ワークシート「団体総合」のグラフの項目軸が上から合計得点が高い順になるようにしてください。値軸の位置は変更しないようにします。次に、グラフにスタイル「スタイル7」、レイアウト「レイアウト2」を適用してください。</text>
+	</examItem>
+	<examItem idx="2" standard="2" task="2" project="1">
+		<fname>4-02.xlsx</fname>
+		<title>表示形式</title>
+		<text>関数を使って、ワークシート「団体総合」の平均得点の行に各種目と合計得点の平均を表示してください。小数点以下1桁まで表示します。</text>
+	</examItem>
+	<examItem idx="3" standard="1" task="3" project="1">
+		<fname>4-03.xlsx</fname>
+		<title>表示倍率</title>
+		<text>ワークシート「団体総合」の標準ビューの表示倍率を70%に設定してください。</text>
+	</examItem>
+	<examItem idx="4" standard="5" task="4" project="1">
+		<fname>4-04.xlsx</fname>
+		<title>画像</title>
+		<text>ワークシート「個人総合」の画像の回転を0度に変更してください。</text>
+	</examItem>
+	<examItem idx="5" standard="4" task="5" project="1">
+		<fname>4-05.xlsx</fname>
+		<title>数式</title>
+		<text>関数を使って、ワークシート「個人総合」の12点以上の人数の行に、各種目の得点が12点以上の人数を表示してください。</text>
+	</examItem>
+	<examItem idx="6" standard="4" task="6" project="1">
+		<fname>4-06.xlsx</fname>
+		<title>数式</title>
+		<text>関数を使って、ワークシート「個人総合」の棄権者の人数の行に、各種目の棄権者の人数を表示してください。棄権者は、各種目の得点のセルに何も入力されていないものとします。</text>
+	</examItem>
+	<examItem idx="7" standard="3" task="7" project="1">
+		<fname>4-07.xlsx</fname>
+		<title>並べ替え</title>
+		<text>ワークシート「個人総合」の成績を大学名の五十音順、大学名が同じ場合は合計得点の高い順に並べ替えてください。次に、すべてのページに8行目が印刷されるように設定してください。また、改ページプレビューを使って、すべての列が1ページに収まるようにし、北里学院大学の行から2ページ目になるようにしてください。</text>
+	</examItem>
+	<examItem idx="8" standard="5" task="1" project="2">
+		<fname>4-08.xlsx</fname>
+		<title>図形</title>
+		<text>ワークシート「改善ポイント」の図形と同じものを右側の表の上に作成してください。文字列は「肉だけでなく、魚もとろう」に修正します。</text>
+	</examItem>
+	<examItem idx="9" standard="1" task="2" project="2">
+		<fname>4-09.xlsx</fname>
+		<title>ハイパーリンク</title>
+		<text>ワークシート「改善ポイント」の「※食品摂取一覧表を参照する」の文字列にハイパーリンクを挿入してください。リンク先は、ワークシート「食品摂取一覧表」のセル【A4】とします。</text>
+	</examItem>
+	<examItem idx="10" standard="2" task="3" project="2">
+		<fname>4-10.xlsx</fname>
+		<title>セルの挿入</title>
+		<text>ワークシート「改善ポイント」の右側の表のさばの下にデータを追加してください。データは、食品名「ぶり」、EPA「1.5」、DHA「1.7」とします。</text>
+	</examItem>
+	<examItem idx="11" standard="2" task="4" project="2">
+		<fname>4-11.xlsx</fname>
+		<title>文字列の折り返し</title>
+		<text>ワークシート「食品摂取一覧表」のメニューがすべて表示されるように文字列を折り返してください。</text>
+	</examItem>
+	<examItem idx="12" standard="1" task="5" project="2">
+		<fname>4-12.xlsx</fname>
+		<title>印刷範囲</title>
+		<text>ワークシート「食品摂取一覧表」の表の項目名から水曜日までのデータだけが印刷されるように設定してください。</text>
+	</examItem>
+	<examItem idx="13" standard="2" task="1" project="3">
+		<fname>4-13.xlsx</fname>
+		<title>小計</title>
+		<text>ワークシート「売上一覧」の表を商品番号の昇順に並べ替えてください。次に、商品番号ごとに数量と売上金額の小計を表示してください。</text>
+	</examItem>
+	<examItem idx="14" standard="1" task="2" project="3">
+		<fname>4-14.xlsx</fname>
+		<title>名前付き範囲</title>
+		<text>テーブル名「SYS」のテーブルの「食品クーポン10000」の数量を「7995」に修正してください。</text>
+	</examItem>
+	<examItem idx="15" standard="3" task="3" project="3">
+		<fname>4-15.xlsx</fname>
+		<title>テーブル</title>
+		<text>ワークシート「店舗」のテーブルをセル範囲に変換してください。書式は変更しないようにします。</text>
+	</examItem>
+	<examItem idx="16" standard="5" task="4" project="3">
+		<fname>4-16.xlsx</fname>
+		<title>グラフ</title>
+		<text>ワークシート「商品別集計」の商品別の売上金額をもとに、パレート図を作成してください。グラフタイトルは非表示にし、セル範囲【B17：H32】に配置します。</text>
+	</examItem>
+	<examItem idx="17" standard="4" task="5" project="3">
+		<fname>4-17.xlsx</fname>
+		<title>セル参照</title>
+		<text>ワークシート「地区別集計」のグラフのグラフタイトルが、セル【B1】を参照して表示するように設定してください。</text>
+	</examItem>
+	<examItem idx="18" standard="5" task="6" project="3">
+		<fname>4-18.xlsx</fname>
+		<title>グラフ</title>
+		<text>ワークシート「地区別集計」のグラフに、値軸ラベル「千円」を追加し、文字列の方向を横書きに設定してください。値軸ラベルは、値軸の左上に配置します。</text>
+	</examItem>
+	<examItem idx="19" standard="4" task="1" project="4">
+		<fname>4-19.xlsx</fname>
+		<title>数式</title>
+		<text>関数を使って、ワークシート「評価ポイント」の評価の列に、累積ポイントが7以上は「A」、4以上は「B」、そうでなければ「C」を表示してください。</text>
+	</examItem>
+	<examItem idx="20" standard="2" task="2" project="4">
+		<fname>4-20.xlsx</fname>
+		<title>条件付き書式</title>
+		<text>ワークシート「評価ポイント」の上期ポイントと下期ポイントの列に、青、白、赤のカラースケールを設定してください。最小値を「最小値」、中間値を百分位「70」、最大値を「最大値」に変更します。次に、累積ポイント（H列）に、累積ポイントが平均より上の場合は、太字を設定してください。数値が変更されたら、書式が自動的に更新されるようにします。</text>
+	</examItem>
+	<examItem idx="21" standard="4" task="3" project="4">
+		<fname>4-21.xlsx</fname>
+		<title>数式</title>
+		<text>関数を使って、ワークシート「評価ポイント」の累積ポイントの人数の列に、累積ポイントごとの人数を表示してください。次に、職級の平均ポイントの列に職級ごとの累積ポイントの平均を表示してください。</text>
+	</examItem>
+	<examItem idx="22" standard="4" task="4" project="4">
+		<fname>4-22.xlsx</fname>
+		<title>ワークシート</title>
+		<text>関数を使って、ワークシート「社員リスト」のNameの列に、nameの先頭文字を大文字に変換して表示してください。変換後、nameの列は非表示にします。次に、関数を使って、メールアドレスの列に、アカウントと文字列「@fom.xx.xx」を結合した文字列を表示してください。文字列は半角で入力します。</text>
+	</examItem>
+	<examItem idx="23" standard="1" task="5" project="4">
+		<fname>4-23.xlsx</fname>
+		<title>ワークシート</title>
+		<text>ワークシートの順番を左側から「社員リスト」「評価ポイント」になるようにしてください。</text>
+	</examItem>
+	<examItem idx="24" standard="1" task="1" project="5">
+		<fname>4-24.xlsx</fname>
+		<title>テーマ</title>
+		<text>ブックのテーマを「インテグラル」に変更してください。次に、テーブル「商品一覧」に1行おきに背景の色が付くように書式を適用してください。行が追加されたら、書式が自動的に更新されるようにします。</text>
+	</examItem>
+	<examItem idx="25" standard="2" task="2" project="5">
+		<fname>4-25.xlsx</fname>
+		<title>インデント</title>
+		<text>ワークシート「請求書」の明細行の型番と商品名のすべてのセルに、左1文字分のインデントを設定してください。</text>
+	</examItem>
+	<examItem idx="26" standard="1" task="3" project="5">
+		<fname>4-26.xlsx</fname>
+		<title>テキストファイルのインポート</title>
+		<text>ワークシート「顧客」のセル【B3】に、デスクトップのフォルダー「FOM Shuppan Documents」のフォルダー「MOS-Excel2016（2）」にあるタブ区切りのテキストファイル「顧客.txt」のデータをインポートしてください。</text>
+	</examItem>
+	<examItem idx="27" standard="5" task="4" project="5">
+		<fname>4-27.xlsx</fname>
+		<title>代替テキスト</title>
+		<text>ブックのアクセシビリティをチェックし、エラーを修正してください。テーブルの代替テキストのタイトルはテーブル名を設定します。</text>
+	</examItem>
+	<examItem idx="28" standard="2" task="1" project="6">
+		<fname>4-28.xlsx</fname>
+		<title>セルの書式設定</title>
+		<text>タイトルのフォントサイズを14ポイント、太字に設定し、表の項目名の高さを「45」に設定してください。次に、月日の列に「2016/7/21」から「2016/8/31」までを入力し、「7月21日」と表示されるように変更してください。</text>
+	</examItem>
+	<examItem idx="29" standard="2" task="2" project="6">
+		<fname>4-29.xlsx</fname>
+		<title>条件付き書式</title>
+		<text>来場者数合計の列に緑のグラデーションのデータバーを表示してください。</text>
+	</examItem>
+	<examItem idx="30" standard="4" task="3" project="6">
+		<fname>4-30.xlsx</fname>
+		<title>絶対参照</title>
+		<text>入場料金大人の列に、日ごとの入場料金を表示してください。入場料金大人は「大人入場料×来場者数大人」で計算します。「大人入場料」はセルを参照します。</text>
+	</examItem>
+	<examItem idx="31" standard="1" task="4" project="6">
+		<fname>4-31.xlsx</fname>
+		<title>ワークシート</title>
+		<text>ワークシート「2016年」を右側にコピーしてください。ワークシート名は「2017年」とし、月日、来場者数大人、来場者数子供の各列のデータを削除してください。次に、シート見出しの色をワークシート「2016年」は「青、アクセント1」、ワークシート「2017年」は「オレンジ、アクセント2」に設定してください。</text>
+	</examItem>
+	<examItem idx="32" standard="5" task="1" project="7">
+		<fname>4-32.xlsx</fname>
+		<title>グラフ</title>
+		<text>ワークシート「集計」の項目軸が上期のグラフを下期のグラフに変更してください。</text>
+	</examItem>
+	<examItem idx="33" standard="4" task="2" project="7">
+		<fname>4-33.xlsx</fname>
+		<title>数式</title>
+		<text>関数を使って、ワークシート「商品」のセル【E2】に商品数を表示してください。商品数は、型番をカウントします。</text>
+	</examItem>
+	<examItem idx="34" standard="1" task="3" project="7">
+		<fname>4-34.xlsx</fname>
+		<title>ワークシート</title>
+		<text>ワークシート「下期」を非表示にしてください。</text>
+	</examItem>
+	<examItem idx="35" standard="1" task="4" project="7">
+		<fname>4-35.xlsx</fname>
+		<title>ドキュメント検査</title>
+		<text>ドキュメントを検査し、プロパティと個人情報を削除してください。</text>
+	</examItem>
+</root>

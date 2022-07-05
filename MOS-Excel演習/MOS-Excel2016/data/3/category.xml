@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<root>
+	<examCategory idx="1" startItem="1" title="mogi3-kadai1" template="mogi3-kadai1.xlsx">KARADA SHOPの会員データ、商品データ、販売売上データをテーブルで管理し、販売売上データをもとに売上分析を行います。</examCategory>
+	<examCategory idx="2" startItem="8" title="mogi3-kadai2" template="mogi3-kadai2.xlsx">営業所別売上をもとに年間の売上推移を表示し、売上合計を比較したグラフを作成します。</examCategory>
+	<examCategory idx="3" startItem="14" title="mogi3-kadai3" template="mogi3-kadai3.xlsx">FOM FISH ISLANDのアイスクリームの販売データを管理します。7月の販売データをもとに、気温と天気と販売数の関係を分析します。</examCategory>
+	<examCategory idx="4" startItem="19" title="mogi3-kadai4" template="mogi3-kadai4.xlsx">英語試験の試験結果をもとに、科目別の平均点や最高点を計算します。また、個人の試験結果を分析したグラフを作成します。</examCategory>
+	<examCategory idx="5" startItem="23" title="mogi3-kadai5" template="mogi3-kadai5.xlsx">フラワーデザインスクールではセミナー申し込み時にセミナー申込確認書を発行しています。テーマや書式を設定して、セミナー申込確認書を作成します。</examCategory>
+	<examCategory idx="6" startItem="27" title="mogi3-kadai6" template="mogi3-kadai6.xlsx">四半期ごとの支店別の売上データをもとに年間売上状況を分析し、グラフを作成します。四半期ごとの売上データは書式をコピーして作成します。</examCategory>
+	<examCategory idx="7" startItem="31" title="mogi3-kadai7" template="mogi3-kadai7.xlsx">7/1の売上日報の時間帯別人数や時間帯別購入金額をもとに、グラフを作成します。7/2の売上日報はデータをインポートして作成します。</examCategory>
+</root>

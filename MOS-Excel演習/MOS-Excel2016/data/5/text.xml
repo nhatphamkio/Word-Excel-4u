@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<root>
+		<readHead></readHead>
+		<read></read>
+	<examItem idx="1" standard="2" task="1" project="1">
+		<fname>5-01.xlsx</fname>
+		<title>セルの結合</title>
+		<text>ワークシート「採用状況」のセル範囲【A1：F1】を、セルを結合して中央揃えにしてください。</text>
+	</examItem>
+	<examItem idx="2" standard="3" task="2" project="1">
+		<fname>5-02.xlsx</fname>
+		<title>テーブル</title>
+		<text>テーブルから「No.」が重複するレコードを削除してください。その他のレコードは削除しないようにします。</text>
+	</examItem>
+	<examItem idx="3" standard="2" task="3" project="1">
+		<fname>5-03.xlsx</fname>
+		<title>条件付き書式</title>
+		<text>最終訪問日が「2016/9/25」より前のセルに「濃い赤の文字、明るい赤の背景」を設定してください。日付が変更されたら、書式が自動的に更新されるようにします。</text>
+	</examItem>
+	<examItem idx="4" standard="1" task="4" project="1">
+		<fname>5-04.xlsx</fname>
+		<title>ワークシート</title>
+		<text>ワークシート「採用状況」の右側に新しいワークシートを追加してください。ワークシート名は「判定基準」とします。次に、名前「判定」のセル範囲をワークシート「判定基準」のセル【A1】を開始位置として移動してください。</text>
+	</examItem>
+	<examItem idx="5" standard="2" task="1" project="2">
+		<fname>5-05.xlsx</fname>
+		<title>表示形式</title>
+		<text>ワークシート「月刊誌」の売上部数に3桁区切りのカンマを表示してください。次に、売上金額を通貨表示形式にしてください。</text>
+	</examItem>
+	<examItem idx="6" standard="4" task="2" project="2">
+		<fname>5-06.xlsx</fname>
+		<title>数式</title>
+		<text>関数を使って、ワークシート「月刊誌」の評価の列に売上金額が50,000,000以上の場合は「○」を表示、そうでない場合は何も表示しないようにしてください。書式は変更しないようにします。</text>
+	</examItem>
+	<examItem idx="7" standard="4" task="3" project="2">
+		<fname>5-07.xlsx</fname>
+		<title>数式</title>
+		<text>関数を使って、ワークシート「月刊誌」のセル【F17】に、セル【E17】に入力された区分の売上部数を合計して表示してください。</text>
+	</examItem>
+	<examItem idx="8" standard="3" task="4" project="2">
+		<fname>5-08.xlsx</fname>
+		<title>テーブル</title>
+		<text>ワークシート「季刊誌」の表を区分の昇順に並べ替えてください。区分が同じ場合は発売月の早い順に並べ替えます。</text>
+	</examItem>
+	<examItem idx="9" standard="1" task="5" project="2">
+		<fname>5-09.xlsx</fname>
+		<title>ワークシート</title>
+		<text>ワークシート「新刊企画」を表示してください。</text>
+	</examItem>
+	<examItem idx="10" standard="5" task="1" project="3">
+		<fname>5-10.xlsx</fname>
+		<title>図</title>
+		<text>ワークシート「概要」の【部屋の種類】の説明の下に、デスクトップのフォルダー「FOM Shuppan Documents」のフォルダー「MOS-Excel2016（2）」にある画像「間取り図.png」を挿入してください。縦横比を変えずに幅を「6.5cm」に変更し、画像の左上がセル【C8】になるように配置します。次に、画像に影の効果「オフセット：右下」を設定してください。この影の効果がない場合は、「オフセット（斜め右下）」を設定します。</text>
+	</examItem>
+	<examItem idx="11" standard="2" task="2" project="3">
+		<fname>5-11.xlsx</fname>
+		<title>置換</title>
+		<text>ワークシート「概要」の文字列「ルーム」をすべて全角の文字列「スペース」に置き換えてください。</text>
+	</examItem>
+	<examItem idx="12" standard="1" task="3" project="3">
+		<fname>5-12.xlsx</fname>
+		<title>ウィンドウ枠の固定</title>
+		<text>ワークシート「予約状況」の表をスクロールしても1～5行目が常に表示されるようにしてください。</text>
+	</examItem>
+	<examItem idx="13" standard="4" task="4" project="3">
+		<fname>5-13.xlsx</fname>
+		<title>数式</title>
+		<text>関数を使って、ワークシート「予約状況」の38行目に空きの数を表示してください。空きの数は空欄の数をカウントします。書式は変更しないようにします。</text>
+	</examItem>
+	<examItem idx="14" standard="1" task="5" project="3">
+		<fname>5-14.xlsx</fname>
+		<title>テキストファイルのインポート</title>
+		<text>ワークシート「使用料」のセル【A3】に、デスクトップのフォルダー「FOM Shuppan Documents」のフォルダー「MOS-Excel2016（2）」にあるカンマ区切りのテキストファイル「料金.csv」のデータをインポートしてください。次に、A列の列幅を「30」に設定してください。</text>
+	</examItem>
+	<examItem idx="15" standard="2" task="1" project="4">
+		<fname>5-15.xlsx</fname>
+		<title>フラッシュフィル</title>
+		<text>フラッシュフィルを使って、ワークシート「取扱商品」の蔵元情報を蔵元名と都道府県に分けて表示してください。（ ）は入力しないようにします。</text>
+	</examItem>
+	<examItem idx="16" standard="4" task="2" project="4">
+		<fname>5-16.xlsx</fname>
+		<title>数式</title>
+		<text>ワークシート「取扱商品」の利益の列に各商品の利益を表示してください。</text>
+	</examItem>
+	<examItem idx="17" standard="2" task="3" project="4">
+		<fname>5-17.xlsx</fname>
+		<title>条件付き書式</title>
+		<text>ワークシート「取扱商品」の販売価格の列に「3つの信号（枠なし）」のアイコンセットを設定してください。販売価格が5,000以上のセルに緑、2,000以上のセルに黄色、それ以外のセルに赤のアイコンを表示します。</text>
+	</examItem>
+	<examItem idx="18" standard="3" task="4" project="4">
+		<fname>5-18.xlsx</fname>
+		<title>テーブル</title>
+		<text>ワークシート「第1四半期」のテーブルをセル範囲に変換してください。書式は変更しないようにします。</text>
+	</examItem>
+	<examItem idx="19" standard="1" task="5" project="4">
+		<fname>5-19.xlsx</fname>
+		<title>印刷タイトル</title>
+		<text>ワークシート「第1四半期」のすべてのページに3行目が印刷されるように設定してください。次に、ヘッダーの右側に「日本酒」と入力し、フッターの中央にページ番号を挿入してください。</text>
+	</examItem>
+	<examItem idx="20" standard="5" task="6" project="4">
+		<fname>5-20.xlsx</fname>
+		<title>グラフ</title>
+		<text>ワークシート「種類別」のグラフの種類を3-D積み上げ縦棒に変更してください。項目軸に種類を表示します。</text>
+	</examItem>
+	<examItem idx="21" standard="1" task="7" project="4">
+		<fname>5-21.xlsx</fname>
+		<title>名前付き範囲</title>
+		<text>名前「ちとせ銘醸」の範囲を表示し、「城山の月」の仕入価格を「1500」に修正してください。</text>
+	</examItem>
+	<examItem idx="22" standard="4" task="1" project="5">
+		<fname>5-22.xlsx</fname>
+		<title>数式</title>
+		<text>関数を使って、12行目に各年度と全体の申込者数の最大値を表示してください。</text>
+	</examItem>
+	<examItem idx="23" standard="5" task="2" project="5">
+		<fname>5-23.xlsx</fname>
+		<title>グラフ</title>
+		<text>項目軸が年度、値軸が人数のグラフに、2016年度のデータを追加してください。</text>
+	</examItem>
+	<examItem idx="24" standard="5" task="3" project="5">
+		<fname>5-24.xlsx</fname>
+		<title>グラフ</title>
+		<text>項目軸が年度、値軸が人数のグラフに、値軸ラベル「人」を追加し、文字列の方向を横書きに設定してください。</text>
+	</examItem>
+	<examItem idx="25" standard="1" task="4" project="5">
+		<fname>5-25.xlsx</fname>
+		<title>アクセシビリティチェック</title>
+		<text>ブックのアクセシビリティをチェックし、エラーを修正してください。グラフの代替テキストのタイトルは「申込者数構成比」と設定します。</text>
+	</examItem>
+	<examItem idx="26" standard="2" task="1" project="6">
+		<fname>5-26.xlsx</fname>
+		<title>リンク貼り付け</title>
+		<text>ワークシート「年間」の「1～3月号」の列にワークシート「1～3月号」の売上金額の列をリンク貼り付けしてください。同様に、ワークシート「4～6月号」「7～9月号」「10～12月号」の売上金額の列をそれぞれワークシート「年間」の「4～6月号」「7～9月号」「10～12月号」の列にリンク貼り付けします。</text>
+	</examItem>
+	<examItem idx="27" standard="1" task="2" project="6">
+		<fname>5-27.xlsx</fname>
+		<title>ハイパーリンク</title>
+		<text>ワークシート「年間」の「1～3月号」の文字列にハイパーリンクを挿入してください。リンク先はワークシート「1～3月号」のセル【A1】とします。</text>
+	</examItem>
+	<examItem idx="28" standard="2" task="3" project="6">
+		<fname>5-28.xlsx</fname>
+		<title>スパークライン</title>
+		<text>ワークシート「1～3月号」の1月号～3月号の売上部数をもとに、傾向の列に折れ線スパークラインを挿入してください。</text>
+	</examItem>
+	<examItem idx="29" standard="5" task="4" project="6">
+		<fname>5-29.xlsx</fname>
+		<title>グラフ</title>
+		<text>ワークシート「1～3月号」のグラフのグラフタイトルを非表示にしてください。次に、グラフの色を「モノクロパレット2」に変更してください。この色がない場合は、モノクロの「色6」に変更します。</text>
+	</examItem>
+	<examItem idx="30" standard="3" task="1" project="7">
+		<fname>5-30.xlsx</fname>
+		<title>テーブル</title>
+		<text>ワークシート「11月」のテーブルに、テーブルスタイル「白，テーブルスタイル（中間）4」を適用してください。このスタイルがない場合は、「テーブルスタイル（中間）4」を適用します。</text>
+	</examItem>
+	<examItem idx="31" standard="4" task="2" project="7">
+		<fname>5-31.xlsx</fname>
+		<title>数式</title>
+		<text>関数を使って、ワークシート「11月」の売上一覧表の分類コードの列に、商品コードの左端から1文字分を取り出した文字列を表示してください。</text>
+	</examItem>
+	<examItem idx="32" standard="3" task="3" project="7">
+		<fname>5-32.xlsx</fname>
+		<title>テーブル</title>
+		<text>ワークシート「11月」の売上一覧表に集計行を追加し、数量と売上金額の合計を表示してください。次に、池袋店の紅茶・ジャムセットのレコードを抽出してください。</text>
+	</examItem>
+	<examItem idx="33" standard="2" task="4" project="7">
+		<fname>5-33.xlsx</fname>
+		<title>書式のコピー</title>
+		<text>ワークシート「11月」のタイトルの書式をワークシート「店舗別」のタイトルにコピーしてください。</text>
+	</examItem>
+	<examItem idx="34" standard="5" task="5" project="7">
+		<fname>5-34.xlsx</fname>
+		<title>グラフ</title>
+		<text>ワークシート「店舗別」のデータをもとに、クイック分析を使って、積み上げ横棒グラフを作成してください。項目軸に店舗名、凡例にギフトセット名を表示します。グラフはグラフシート「店舗別売上金額」に作成し、グラフタイトル「店舗別売上金額」を表示します。</text>
+	</examItem>
+	<examItem idx="35" standard="1" task="6" project="7">
+		<fname>5-35.xlsx</fname>
+		<title>列の非表示</title>
+		<text>ワークシート「店舗別」の商品コードの列を非表示にしてください。</text>
+	</examItem>
+</root>

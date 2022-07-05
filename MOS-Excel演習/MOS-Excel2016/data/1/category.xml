@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<root>
+	<examCategory idx="1" startItem="1" title="mogi1-kadai1" template="mogi1-kadai1.xlsx">英国長期語学研修のコース案内のページを作成します。画像にアート効果を設定したり、セルの書式を設定したりしてページの体裁を整え、PDFファイルとして保存します。</examCategory>
+	<examCategory idx="2" startItem="6" title="mogi1-kadai2" template="mogi1-kadai2.xlsx">課題別得点表をもとに、アート課題の進捗を管理します。集計表をもとに、課題ごとに提出状況がわかるようなグラフを作成します。</examCategory>
+	<examCategory idx="3" startItem="12" title="mogi1-kadai3" template="mogi1-kadai3.xlsx">2016年度売上データをもとに、販売店別の売上集計表を作成したり、担当者別の売上集計表を作成したりします。</examCategory>
+	<examCategory idx="4" startItem="19" title="mogi1-kadai4" template="mogi1-kadai4.xlsx">オーディオ製品の売上データを管理します。売上、商品、店舗のデータの体裁を整えます。</examCategory>
+	<examCategory idx="5" startItem="23" title="mogi1-kadai5" template="mogi1-kadai5.xlsx">映画興行収益の日次集計と月次集計を作成します。アウトラインを作成したり、印刷の設定をしたりします。</examCategory>
+	<examCategory idx="6" startItem="27" title="mogi1-kadai6" template="mogi1-kadai6.xlsx">あなたは、レジャー施設の利用状況をまとめています。会員種別や利用区分ごとの利用代金の分析をします。</examCategory>
+	<examCategory idx="7" startItem="31" title="mogi1-kadai7" template="mogi1-kadai7.xlsx">あなたはAトラベル株式会社の社員です。宿泊プランのご案内や売上集計表を作成します。</examCategory>
+</root>

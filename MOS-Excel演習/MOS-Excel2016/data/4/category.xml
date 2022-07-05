@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<root>
+	<examCategory idx="1" startItem="1" title="mogi4-kadai1" template="mogi4-kadai1.xlsx">体操男子の団体成績表と個人成績表を集計します。団体成績は大学別に各種目の成績を表すグラフを作成します。</examCategory>
+	<examCategory idx="2" startItem="8" title="mogi4-kadai2" template="mogi4-kadai2.xlsx">図形を使って、食生活の改善ポイントのページを作成します。食品摂取一覧表では、1週間の食事メニュー、とり過ぎや不足の成分を表示します。</examCategory>
+	<examCategory idx="3" startItem="13" title="mogi4-kadai3" template="mogi4-kadai3.xlsx">2016年下期売上データをもとに、商品別や地区別の売上集計表を作成します。</examCategory>
+	<examCategory idx="4" startItem="19" title="mogi4-kadai4" template="mogi4-kadai4.xlsx">社員の評価ポイントデータをもとに、累計ポイントごとの人数や、職級ごとの平均ポイントを集計します。</examCategory>
+	<examCategory idx="5" startItem="24" title="mogi4-kadai5" template="mogi4-kadai5.xlsx">イングランド株式会社では、紅茶やコーヒーを販売しています。テーマや書式を設定して、請求書を作成します。</examCategory>
+	<examCategory idx="6" startItem="28" title="mogi4-kadai6" template="mogi4-kadai6.xlsx">世界のおもちゃ博物館の夏休み期間における大人と子供の来場者数と入場料金を分析します。</examCategory>
+	<examCategory idx="7" startItem="32" title="mogi4-kadai7" template="mogi4-kadai7.xlsx">売上データをもとに、商品分類別年間売上を作成します。商品分類別売上グラフや月別売上推移グラフを作成します。</examCategory>
+</root>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<root>
+		<readHead></readHead>
+		<read></read>
+	<examItem idx="1" standard="2" task="1" project="1">
+		<fname>3-01.docx</fname>
+		<title>ワードアート</title>
+				<text>「Challenge　ヨガポーズ」の段落を、ワードアート「塗りつぶし：水色、アクセントカラー1；影」に変更し、文字列の折り返しを上下に設定してください。</text>
+	</examItem>
+	<examItem idx="2" standard="5" task="2" project="1">
+		<fname>3-02.docx</fname>
+		<title>図形</title>
+		<text>「Challenge　ヨガポーズ」の右上に、図形「吹き出し：円形」を挿入し、「No.8」と半角で入力してください。図形にスタイル「パステル-緑、アクセント4」を適用してください。</text>
+	</examItem>
+	<examItem idx="3" standard="2" task="3" project="1">
+		<fname>3-03.docx</fname>
+		<title>インデント</title>
+		<text>「今回ご紹介する…」から「…取り組みましょう。」までの段落の左右のインデントを「2.5字」に設定してください。</text>
+	</examItem>
+	<examItem idx="4" standard="5" task="4" project="1">
+		<fname>3-04.docx</fname>
+		<title>図</title>
+		<text>ヨガのイラストの背景を削除して、余白に合わせて左右中央に配置してください。背景の削除は、首の後ろの白い部分も削除します。</text>
+	</examItem>
+	<examItem idx="5" standard="1" task="5" project="1">
+		<fname>3-05.docx</fname>
+		<title>ページ罫線</title>
+		<text>ページの周囲を色「水色、テキスト2」、太さ「1.5pt」の二重線で囲んでください。</text>
+	</examItem>
+	<examItem idx="6" standard="1" task="1" project="2">
+		<fname>3-06.docx</fname>
+		<title>ファイルの挿入</title>
+		<text>1ページ目の「●毎日の負担を少なくすること」の下に、デスクトップのフォルダー「FOM Shuppan Documents」のフォルダー「MOS-Word2016(2)」の文書「学習時間.docx」を挿入してください。</text>
+	</examItem>
+	<examItem idx="7" standard="5" task="2" project="2">
+		<fname>3-07.docx</fname>
+		<title>図</title>
+		<text>受講生の写真にアート効果「カットアウト」を適用し、代替テキストのタイトルに「受講生の写真」を設定してください。</text>
+	</examItem>
+	<examItem idx="8" standard="2" task="3" project="2">
+		<fname>3-08.docx</fname>
+		<title>セクション区切り</title>
+		<text>1ページ目の「2017年度開講予定コース」が2ページ目の先頭に表示されるようにページを区切ってください。2ページ目の上下の余白は「15mm」に設定します。</text>
+	</examItem>
+	<examItem idx="9" standard="3" task="4" project="2">
+		<fname>3-09.docx</fname>
+		<title>表</title>
+		<text>2ページ目の「●TOEIC・英検コース」の下にある「コースNo.」から「C2017-007…」までの段落を、ウィンドウのサイズに合わせて8行4列の表に変換し、項目名を中央揃えに設定してください。さらに、表を「コースNo.」のJISコードの昇順に並べ替えてください。</text>
+	</examItem>
+	<examItem idx="10" standard="2" task="5" project="2">
+		<fname>3-10.docx</fname>
+		<title>特殊文字</title>
+		<text>文書内のすべての「TOEIC」の後ろに、「(R)」を挿入してください。</text>
+	</examItem>
+	<examItem idx="11" standard="2" task="1" project="3">
+		<fname>3-11.docx</fname>
+		<title>文字書式</title>
+		<text>1ページ目の「知的財産権について」に、フォント「MSゴシック」、太字、フォントの色「青、アクセント5」を設定してください。</text>
+	</examItem>
+	<examItem idx="12" standard="4" task="2" project="3">
+		<fname>3-12.docx</fname>
+		<title>目次</title>
+		<text>1ページ目の「知的財産権について」の下に自動作成の目次1を挿入してください。</text>
+	</examItem>
+	<examItem idx="13" standard="5" task="3" project="3">
+		<fname>3-13.docx</fname>
+		<title>SmartArtグラフィック</title>
+		<text>2ページ目の「知的財産権は、次のように分類できます。」の下に、SmartArtグラフィックの図表の横方向階層を挿入してください。テキストウィンドウの上から「知的財産権」「著作権」「著作者人格権」「著作財産権」「産業財産権」「特許権」と入力し、特許権に続けて「実用新案権」「意匠権」「商標権」を追加してください。ただし、階層のレベルは変更しないこと。
+次に、図表の高さを「149mm」に設定し、スタイル「光沢」を適用してください。</text>
+	</examItem>
+	<examItem idx="14" standard="3" task="4" project="3">
+		<fname>3-14.docx</fname>
+		<title>箇条書き</title>
+		<text>3ページ目の「公表権」から「…改変されない権利」までの段落に箇条書きを設定し、「公表時期や…」「公表時の…」「著作物を…」の3つの段落のレベルをレベル2に設定してください。</text>
+	</examItem>
+	<examItem idx="15" standard="1" task="5" project="3">
+		<fname>3-15.docx</fname>
+		<title>ズーム</title>
+		<text>ページ幅を基準に表示し、ヘッダーの「勉強会資料」のフォントサイズを「10.5ポイント」に設定してください。</text>
+	</examItem>
+	<examItem idx="16" standard="1" task="6" project="3">
+		<fname>3-16.docx</fname>
+		<title>ドキュメント検査</title>
+		<text>ドキュメント検査を行い、文書のプロパティと個人情報を削除してください。</text>
+	</examItem>
+	<examItem idx="17" standard="1" task="1" project="4">
+		<fname>3-17.docx</fname>
+		<title>ページ設定</title>
+		<text>オーガニックのテーマを適用し、上下の余白を「20mm」に設定してください。</text>
+	</examItem>
+	<examItem idx="18" standard="2" task="2" project="4">
+		<fname>3-18.docx</fname>
+		<title>置換</title>
+		<text>文書内の「マスコミ」を全角の「メディア」に置換してください。</text>
+	</examItem>
+	<examItem idx="19" standard="5" task="3" project="4">
+		<fname>3-19.docx</fname>
+		<title>テキストボックス</title>
+		<text>文書の先頭の「若者の中で…」から「…考察してみた。」までの段落を横書きのテキストボックスに変更してください。</text>
+	</examItem>
+	<examItem idx="20" standard="3" task="4" project="4">
+		<fname>3-20.docx</fname>
+		<title>表</title>
+		<text>表の2行目「●岡山全域で…」の行と、16行目「●特に…」の行をそれぞれセル結合して1つのセルにしてください。表のスタイル「グリッド（表）4-アクセント2」を適用し、最初の列のオプションを解除します。</text>
+	</examItem>
+	<examItem idx="21" standard="4" task="5" project="4">
+		<fname>3-21.docx</fname>
+		<title>脚注</title>
+		<text>表の16行目の「備前地方」の後ろに、脚注を挿入してください。脚注番号は「A,B,C,…」とし、内容は「岡山県の南東部にわたる地域のこと。」とします。</text>
+	</examItem>
+	<examItem idx="22" standard="4" task="6" project="4">
+		<fname>3-22.docx</fname>
+		<title>図表番号</title>
+		<text>SmartArtグラフィックの図表の下に図表番号を挿入してください。ラベルは「図表」とし、内容は「方言として認識しているものとしていないものの例」とします。</text>
+	</examItem>
+	<examItem idx="23" standard="4" task="7" project="4">
+		<fname>3-23.docx</fname>
+		<title>表紙</title>
+		<text>表紙「スライス（淡色）」を挿入してください。文書のタイトルに「若者における方言の認識」、文書のサブタイトルに「岡山弁による検証」と入力します。</text>
+	</examItem>
+	<examItem idx="24" standard="5" task="1" project="5">
+		<fname>3-24.docx</fname>
+		<title>図</title>
+		<text>1ページ目の「こどもスキー教室参加者募集」の下に、デスクトップのフォルダー「FOM Shuppan Documents」のフォルダー「MOS-Word2016(2)」の図「スキー.jpg」を挿入してください。文字列の折り返しは四角形に設定し、余白に合わせて右上に配置します。さらに、スタイル「回転、白」を適用してください。</text>
+	</examItem>
+	<examItem idx="25" standard="1" task="2" project="5">
+		<fname>3-25.docx</fname>
+		<title>ハイパーリンク </title>
+		<text>1ページ目の「■詳細」の下にある「FOMロッジ「麓郷」」に、アドレス「http://www.fomlodge-rokugou.xx.xx」へのハイパーリンクを挿入してください。
+		※挿入したハイパーリンクはクリックしないこと。</text>
+	</examItem>
+	<examItem idx="26" standard="1" task="3" project="5">
+		<fname>3-26.docx</fname>
+		<title>ヘッダー</title>
+		<text>ヘッダーの1行目に本日の日付を、2行目に「楓市こどもセンター」という文字列を挿入し、右にそろえて配置してください。日付は、「YYYY年M月D日」の形式とします。</text>
+	</examItem>
+	<examItem idx="27" standard="3" task="4" project="5">
+		<fname>3-27.docx</fname>
+		<title>表</title>
+		<text>文末に5行2列の表を作成し、1列目の上から「参加者氏名」「学年」「保護者氏名」「住所」「電話番号」と入力してください。1列目の列幅は、文字列の長さに合わせて自動調整し、表全体を中央揃えで配置します。</text>
+	</examItem>
+	<examItem idx="28" standard="5" task="1" project="6">
+		<fname>3-28.docx</fname>
+		<title>テキストボックス</title>
+		<text>「お問い合わせ先」から「定休日　　水曜日」までの段落を横書きテキストボックスに変更し、余白に合わせて右下に配置してください。テキストボックスの枠線は、色「緑、アクセント6、黒＋基本色50％」、太さ「3pt」に設定します。</text>
+	</examItem>
+	<examItem idx="29" standard="2" task="2" project="6">
+		<fname>3-29.docx</fname>
+		<title>蛍光ペン</title>
+		<text>「物件詳細」に黄色の蛍光ペンを設定してください。</text>
+	</examItem>
+	<examItem idx="30" standard="3" task="3" project="6">
+		<fname>3-30.docx</fname>
+		<title>箇条書き</title>
+		<text>「物件詳細」の下にある箇条書き「所在地」「交通」「敷地面積」「総戸数」「間取り」「専有床面積」「販売価格」の行頭文字を、デスクトップのフォルダー「FOM Shuppan Documents」のフォルダー「MOS-Word2016(2)」の図「マーク.gif」に変更してください。</text>
+	</examItem>
+	<examItem idx="31" standard="1" task="4" project="6">
+		<fname>3-31.docx</fname>
+		<title>保存</title>
+		<text>文書に「販売開始の案内」という名前を付けて、デスクトップのフォルダー「FOM Shuppan Documents」のフォルダー「MOS-Word2016(2)」にPDFファイルとして保存してください。発行後にPDFファイルは開かないようにします。</text>
+	</examItem>
+	<examItem idx="32" standard="1" task="1" project="7">
+		<fname>3-32.docx</fname>
+		<title>ファイルの挿入</title>
+		<text>学生の写真の下に、デスクトップのフォルダー「FOM Shuppan Documents」のフォルダー「MOS-Word2016(2)」のテキストファイル「案内文.txt」を挿入してください。挿入した段落の書式はすべてクリアします。</text>
+	</examItem>
+	<examItem idx="33" standard="5" task="2" project="7">
+		<fname>3-33.docx</fname>
+		<title>図</title>
+		<text>学生の写真の文字列の折り返しを四角形に設定してください。</text>
+	</examItem>
+	<examItem idx="34" standard="3" task="3" project="7">
+		<fname>3-34.docx</fname>
+		<title>表</title>
+		<text>「当日のスケジュール」の下にある表を解除してください。文字列はタブで区切ります。</text>
+	</examItem>
+	<examItem idx="35" standard="5" task="4" project="7">
+		<fname>3-35.docx</fname>
+		<title>SmartArtグラフィック</title>
+		<text>SmartArtグラフィックの図表のレイアウトを基本放射に変更してください。「貢献」の図形は削除し、上から時計回りに「礼儀」「教養」「自立」の順になるように図形を移動してください。</text>
+	</examItem>
+</root>

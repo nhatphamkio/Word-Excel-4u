@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<root>
+    <readHead></readHead>
+    <read></read>
+  <examItem idx="1" standard="1" task="1" project="1">
+    <fname>4-01.docx</fname>
+    <title>ファイルの挿入</title>
+    <text>「清里高原荘のご案内」の下に、デスクトップのフォルダー「FOM Shuppan Documents」のフォルダー「MOS-Word2016(2)」のファイル「保養所案内文.odt」を挿入してください。挿入した段落の書式はすべてクリアします。</text>
+  </examItem>
+  <examItem idx="2" standard="5" task="2" project="1">
+    <fname>4-02.docx</fname>
+    <title>SmartArtグラフィック</title>
+    <text>SmartArtグラフィックの図形が、左から「予約申込書に記入してFAX」「予約センターから電話確認」「予約完了」と表示されるように、順序を入れ替えてください。</text>
+  </examItem>
+  <examItem idx="3" standard="1" task="3" project="1">
+    <fname>4-03.docx</fname>
+    <title>ジャンプ</title>
+    <text>ブックマーク「空室情報」を使ってジャンプし、「6月　空室情報」にスタイル「見出し1」を設定してください。</text>
+  </examItem>
+  <examItem idx="4" standard="2" task="4" project="1">
+    <fname>4-04.docx</fname>
+    <title>ページ設定</title>
+    <text>2ページ目の印刷の向きを横に設定してください。</text>
+  </examItem>
+  <examItem idx="5" standard="3" task="5" project="1">
+    <fname>4-05.docx</fname>
+    <title>表</title>
+    <text>2ページ目の「部屋タイプ…」から「2名洋室…」までの段落を、文字列の幅に合わせて9行31列の表に変換してください。</text>
+  </examItem>
+  <examItem idx="6" standard="2" task="6" project="1">
+    <fname>4-06.docx</fname>
+    <title>蛍光ペン</title>
+    <text>6月3日、17日、24日の「○」に水色の蛍光ペンを設定してください。</text>
+  </examItem>
+  <examItem idx="7" standard="4" task="7" project="1">
+    <fname>4-07.docx</fname>
+    <title>脚注</title>
+    <text>2ページ目の「6月　空室情報」の後ろに、脚注を挿入してください。脚注番号は「①,②,③…」とし、内容は表の下にある「5月15日現在の空室状況です。最新の空室状況はお電話にてお問い合わせください。」の文字列を切り取って貼り付けてください。</text>
+  </examItem>
+  <examItem idx="8" standard="2" task="1" project="2">
+    <fname>4-08.docx</fname>
+    <title>ワードアート</title>
+    <text>「経営者のためのストレスチェック導入セミナー」の段落を、ワードアート「塗りつぶし：青、アクセントカラー1；影」に変更してください。フォントサイズは「18ポイント」に設定し、余白に合わせて左右中央に配置します。</text>
+  </examItem>
+  <examItem idx="9" standard="3" task="2" project="2">
+    <fname>4-09.docx</fname>
+    <title>箇条書き</title>
+    <text>記書きの「日程…」から「…FOMビル15階」までの段落に箇条書きを設定してください。行頭文字は、デスクトップのフォルダー「FOM Shuppan Documents」のフォルダー「MOS-Word2016(2)」の図「シンボル.gif」にします。</text>
+  </examItem>
+  <examItem idx="10" standard="5" task="3" project="2">
+    <fname>4-10.docx</fname>
+    <title>図形</title>
+    <text>地図の赤い四角の右横に図形「四角形：対角を丸める」を挿入し、文書内の「FOMビル15階」をコピーして貼り付けてください。</text>
+  </examItem>
+  <examItem idx="11" standard="1" task="4" project="2">
+    <fname>4-11.docx</fname>
+    <title>ページ罫線</title>
+    <text>ページの周囲を色「青、アクセント1、黒+基本色25％」、太さ「3pt」の影付きの線で囲んでください。</text>
+  </examItem>
+  <examItem idx="12" standard="2" task="1" project="3">
+    <fname>4-18.docx</fname>
+    <title>段落の間隔</title>
+    <text>「このたび、入社12～15年目の…」の段落前の間隔を削除してください。</text>
+  </examItem>
+  <examItem idx="13" standard="3" task="2" project="3">
+    <fname>4-19.docx</fname>
+    <title>表</title>
+    <text>表を受講日程の昇順に並べ替えてください。</text>
+  </examItem>
+  <examItem idx="14" standard="5" task="3" project="3">
+    <fname>4-20.docx</fname>
+    <title>テキストボックス</title>
+    <text>表の下にある「※研修の…」から「…ご用意願います。」までの段落を横書きテキストボックスに変更し、文字列の折り返しを行内に設定してください。テキストボックスにスタイル「枠線のみ-緑、アクセント6」を適用します。</text>
+  </examItem>
+  <examItem idx="15" standard="1" task="4" project="3">
+    <fname>4-21.docx</fname>
+    <title>アクセシビリティチェック</title>
+    <text>文書にアクセシビリティチェックを実行し、エラーをすべて修正してください。表の代替テキストのタイトルは「出席予定者の表」とします。</text>
+  </examItem>
+  <examItem idx="16" standard="5" task="1" project="4">
+    <fname>4-12.docx</fname>
+    <title>図</title>
+    <text>美術館の外観写真に、面取りの効果「浮き上がり」を設定し、最背面へ移動してください。</text>
+  </examItem>
+  <examItem idx="17" standard="2" task="2" project="4">
+    <fname>4-13.docx</fname>
+    <title>特殊文字</title>
+    <text>「藤城正孝」と「宮野里美」の後ろに、それぞれ4分の1文字分のスペースを挿入してください。</text>
+  </examItem>
+  <examItem idx="18" standard="3" task="3" project="4">
+    <fname>4-14.docx</fname>
+    <title>箇条書き</title>
+    <text>「一般　　1,200円」から「小学生以下　無料」までの段落のレベルをレベル2に設定し、「所在地…」「アクセス…」「開館時間」「休館日…」「入館料」の行頭文字のサイズを「12ポイント」に、色を「緑、アクセント6、黒+基本色50％」に変更してください。</text>
+  </examItem>
+  <examItem idx="19" standard="4" task="4" project="4">
+    <fname>4-15.docx</fname>
+    <title>文末脚注</title>
+    <text>「…毎月第2・3月曜日」の後ろに文末脚注を挿入してください。脚注番号は「a,b,c,…」とし、内容は「祝日の場合は開館し、翌日休館します。」と入力してください。</text>
+  </examItem>
+  <examItem idx="20" standard="1" task="5" project="4">
+    <fname>4-16.docx</fname>
+    <title>ハイパーリンク</title>
+    <text>最終行の「ホームページ」にアドレス「http://www.fujishiro-museum.xx.xx」へのハイパーリンクを挿入してください。
+※挿入したハイパーリンクはクリックしないこと。</text>
+  </examItem>
+  <examItem idx="21" standard="1" task="6" project="4">
+    <fname>4-17.docx</fname>
+    <title>プロパティ</title>
+    <text>文書のプロパティの分類に「下書き」を設定してください。</text>
+  </examItem>
+  <examItem idx="22" standard="1" task="1" project="5">
+    <fname>4-22.docx</fname>
+    <title>ページ設定</title>
+    <text>用紙をはがきに変更し、余白を「狭い」に設定してください。</text>
+  </examItem>
+  <examItem idx="23" standard="1" task="2" project="5">
+    <fname>4-23.docx</fname>
+    <title>ページの色 </title>
+    <text>ページの色を「黒、テキスト1」に設定してください。</text>
+  </examItem>
+  <examItem idx="24" standard="1" task="3" project="5">
+    <fname>4-24.docx</fname>
+    <title>ファイルの挿入</title>
+    <text>文書にデスクトップのフォルダー「FOM Shuppan Documents」のフォルダー「MOS-Word2016（2）」のテキストファイル「花火大会案内.txt」を挿入し、「春山に夏の…」から「TEL：048-798-XXXX」までの段落のフォントサイズを「8ポイント」に設定してください。</text>
+  </examItem>
+  <examItem idx="25" standard="2" task="4" project="5">
+    <fname>4-25.docx</fname>
+    <title>ワードアート</title>
+    <text>「第54回春山花火大会」の段落を、ワードアート「塗りつぶし（グラデーション）：ゴールド、アクセントカラー4；輪郭：ゴールド、アクセントカラー4」に変更し、フォントサイズを「20ポイント」に設定してください。</text>
+  </examItem>
+  <examItem idx="26" standard="5" task="5" project="5">
+    <fname>4-26.docx</fname>
+    <title>図</title>
+    <text>文書にデスクトップのフォルダー「FOM Shuppan Documents」のフォルダー「MOS-Word2016（2）」の図「花火.jpg」を挿入し、文字列の折り返しを背面に設定してください。挿入した写真は用紙に合わせて右下に配置します。</text>
+  </examItem>
+  <examItem idx="27" standard="2" task="1" project="6">
+    <fname>4-27.docx</fname>
+    <title>置換</title>
+    <text>文書内の半角の「:」を全角の「：」に置換してください。</text>
+  </examItem>
+  <examItem idx="28" standard="5" task="2" project="6">
+    <fname>4-28.docx</fname>
+    <title>図</title>
+    <text>蝶の写真にスタイル「シンプルな枠、白」を適用してください。</text>
+  </examItem>
+  <examItem idx="29" standard="3" task="3" project="6">
+    <fname>4-29.docx</fname>
+    <title>表</title>
+    <text>プリザーブドフラワーの行とワンポイント旅行英会話の行でそれぞれ表を分割して3つの表にしてください。分割された表の上に、「★プリザーブドフラワー★」と「★ワンポイント旅行英会話★」を切り取って貼り付け、「★センスアップ・フォトテクニック★」の書式をコピーしてください。余分な空白行は削除します。</text>
+  </examItem>
+  <examItem idx="30" standard="1" task="4" project="6">
+    <fname>4-30.docx</fname>
+    <title>フッター</title>
+    <text>文末の「受講のお申し込み…」の段落を切り取って、フッターとして挿入してください。フッターは右にそろえて配置し、余分な空白行は削除します。</text>
+  </examItem>
+  <examItem idx="31" standard="1" task="1" project="7">
+    <fname>4-31.docx</fname>
+    <title>スタイルセット</title>
+    <text>スタイルセット「白黒（クラシック）」を設定し、上下の余白を「20mm」に設定してください。</text>
+  </examItem>
+  <examItem idx="32" standard="2" task="2" project="7">
+    <fname>4-32.docx</fname>
+    <title>行間</title>
+    <text>文書全体の行間を固定値「23pt」に設定してください。</text>
+  </examItem>
+  <examItem idx="33" standard="4" task="3" project="7">
+    <fname>4-33.docx</fname>
+    <title>目次</title>
+    <text>目次のページ番号だけを更新してください。</text>
+  </examItem>
+  <examItem idx="34" standard="4" task="4" project="7">
+    <fname>4-34.docx</fname>
+    <title>表紙</title>
+    <text>表紙「セマフォ」を挿入してください。文書のタイトルに「ファシリティマネジメント」、文書のサブタイトルに「勉強会資料」と入力します。日付、作成者名、会社名、会社の住所は削除してください。</text>
+  </examItem>
+  <examItem idx="35" standard="1" task="5" project="7">
+    <fname>4-35.docx</fname>
+    <title>互換性チェック</title>
+    <text>文書を上書き保存してください。次に、互換性をチェックし、文書に「資料」という名前を付けて、デスクトップのフォルダー「FOM Shuppan Documents」のフォルダー「MOS-Word2016（2）」にWord97-2003形式の文書として保存してください。</text>
+  </examItem>
+</root>

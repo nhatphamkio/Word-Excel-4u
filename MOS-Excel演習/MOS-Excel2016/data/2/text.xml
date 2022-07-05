@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<root>
+		<readHead></readHead>
+		<read></read>
+	<examItem idx="1" standard="2" task="1" project="1">
+		<fname>2-01.xlsx</fname>
+		<title>表示形式</title>
+		<text>ワークシート「歴代優勝者」の記録を小数点以下2桁まで表示してください。</text>
+	</examItem>
+	<examItem idx="2" standard="4" task="2" project="1">
+		<fname>2-02.xlsx</fname>
+		<title>数式</title>
+		<text>関数を使って、ワークシート「歴代優勝者」の大会名の列に「1953 - 名古屋大会」と表示されるようにしてください。「-」の前後に半角空白を表示し、「-」は半角で入力します。「開催年」と「会場」はセルを参照します。</text>
+	</examItem>
+	<examItem idx="3" standard="3" task="3" project="1">
+		<fname>2-03.xlsx</fname>
+		<title>テーブル</title>
+		<text>ワークシート「優勝回数」のテーブルから優勝したことがある所属のレコードを抽出してください。</text>
+	</examItem>
+	<examItem idx="4" standard="5" task="4" project="1">
+		<fname>2-04.xlsx</fname>
+		<title>画像</title>
+		<text>ワークシート「大会記録」の画像にスタイル「対角を丸めた四角形、白」を適用してください。</text>
+	</examItem>
+	<examItem idx="5" standard="4" task="5" project="1">
+		<fname>2-05.xlsx</fname>
+		<title>数式</title>
+		<text>関数を使って、ワークシート「大会記録」に最高記録と平均を表示してください。最高記録はすべての優勝者の記録のうち、最も速いタイムを求めます。平均はすべての優勝者の記録の平均タイムを求めます。</text>
+	</examItem>
+	<examItem idx="6" standard="1" task="6" project="1">
+		<fname>2-06.xlsx</fname>
+		<title>ワークシート</title>
+		<text>ワークシートの順番を左側から「歴代優勝者」「大会記録」「優勝回数」になるようにしてください。次に、シート見出しの色をワークシート「歴代優勝者」は「青、アクセント1」、ワークシート「大会記録」は「ゴールド、アクセント4」、ワークシート「優勝回数」は「緑、アクセント6」に設定してください。</text>
+	</examItem>
+	<examItem idx="7" standard="1" task="7" project="1">
+		<fname>2-07.xlsx</fname>
+		<title>プロパティ</title>
+		<text>ブックのプロパティのタイトルに「水泳大会」、サブタイトルに「男子自由形」と設定してください。</text>
+	</examItem>
+	<examItem idx="8" standard="2" task="1" project="2">
+		<fname>2-08.xlsx</fname>
+		<title>条件付き書式</title>
+		<text>ワークシート「商品一覧」のテーブルの在庫が10より小さいセルに、斜体とフォントの色「濃い赤」を設定してください。数値が変更されたら、書式が自動的に更新されるようにします。</text>
+	</examItem>
+	<examItem idx="9" standard="3" task="2" project="2">
+		<fname>2-09.xlsx</fname>
+		<title>テーブル</title>
+		<text>ワークシート「商品一覧」のテーブルに集計行を追加し、商品名のデータの個数、入庫の平均、出庫の平均を表示してください。在庫の集計は表示しないようにします。</text>
+	</examItem>
+	<examItem idx="10" standard="1" task="3" project="2">
+		<fname>2-10.xlsx</fname>
+		<title>検索</title>
+		<text>ワークシート「商品一覧」から「枕」を含む商品を検索し、定価を「3000」に修正してください。</text>
+	</examItem>
+	<examItem idx="11" standard="4" task="4" project="2">
+		<fname>2-11.xlsx</fname>
+		<title>数式</title>
+		<text>ワークシート「年間集計」の予算達成率の列に予算達成率を求め、パーセントで表示してください。小数点以下1桁まで表示し、表の書式は変更しないようにします。</text>
+	</examItem>
+	<examItem idx="12" standard="5" task="5" project="2">
+		<fname>2-12.xlsx</fname>
+		<title>グラフ</title>
+		<text>ワークシート「年間集計」の地域別集計グラフの項目軸に地域名を表示してください。次に、グラフのデータ系列にデータラベルを表示してください。表示する位置はデータ系列の中央とします。</text>
+	</examItem>
+	<examItem idx="13" standard="1" task="6" project="2">
+		<fname>2-13.xlsx</fname>
+		<title>互換性チェック</title>
+		<text>ブックの互換性をチェックし、結果を新しいワークシートに表示してください。</text>
+	</examItem>
+	<examItem idx="14" standard="1" task="1" project="3">
+		<fname>2-14.xlsx</fname>
+		<title>ヘッダーとフッター</title>
+		<text>ワークシート「売上一覧」のヘッダーの右側に太字、フォントの色「赤」で「社外秘」と表示してください。</text>
+	</examItem>
+	<examItem idx="15" standard="2" task="2" project="3">
+		<fname>2-15.xlsx</fname>
+		<title>インデント</title>
+		<text>ワークシート「集計」のメニュー名の列の「旬のフルーツパフェ」から「しぼりたてオレンジジュース」までに左1文字分のインデントを設定してください。</text>
+	</examItem>
+	<examItem idx="16" standard="4" task="3" project="3">
+		<fname>2-16.xlsx</fname>
+		<title>数式</title>
+		<text>関数を使って、ワークシート「集計」の評価の列に合計金額が売上目標を達成している場合は「達成」、達成していない場合は「未達成」を表示してください。表の書式は変更しないようにします。</text>
+	</examItem>
+	<examItem idx="17" standard="5" task="4" project="3">
+		<fname>2-17.xlsx</fname>
+		<title>グラフ</title>
+		<text>ワークシート「集計」のグラフをグラフシート「売上構成グラフ」に移動してください。グラフシートは、ワークシート「集計」とワークシート「メニュー」の間に表示します。次に、グラフエリアのフォントサイズを「14」に変更してください。</text>
+	</examItem>
+	<examItem idx="18" standard="2" task="5" project="3">
+		<fname>2-18.xlsx</fname>
+		<title>列の幅</title>
+		<text>ワークシート「メニュー」のテーブルの項目がすべて表示されるように列幅を自動調整してください。</text>
+	</examItem>
+	<examItem idx="19" standard="4" task="1" project="4">
+		<fname>1-19.xlsx</fname>
+		<title>数式</title>
+		<text>ワークシート「上期申込者数」の12行目に構成比を求め、パーセントで表示してください。構成比は申込者数の総合計に対する各講座の申込者数の割合とし、小数点以下1桁まで表示します。</text>
+	</examItem>
+	<examItem idx="20" standard="5" task="2" project="4">
+		<fname>1-20.xlsx</fname>
+		<title>図形</title>
+		<text>ワークシート「上期申込者数」のグラフに図形「吹き出し：四角形」を挿入してください。図形の位置は「管理栄養士」の棒グラフの上側とし、吹き出しの先端が「9月」のグラフを指すようにします。次に、吹き出し内に文字列「人気第１位」と表示します。この図形がない場合は、「四角形吹き出し」を挿入します。</text>
+	</examItem>
+	<examItem idx="21" standard="2" task="3" project="4">
+		<fname>1-21.xlsx</fname>
+		<title>アウトライン</title>
+		<text>ワークシート「年間申込者数」の表にアウトラインを自動で作成してください。各期の集計列と各講座の集計行だけを表示します。</text>
+	</examItem>
+	<examItem idx="22" standard="1" task="4" project="4">
+		<fname>1-22.xlsx</fname>
+		<title>テキストファイルのインポート</title>
+		<text>ワークシート「会員」のセル【A3】に、デスクトップのフォルダー「FOM Shuppan Documents」のフォルダー「MOS-Excel2016（2）」にあるタブ区切りのテキストファイル「新規会員.txt」のデータをインポートしてください。</text>
+	</examItem>
+	<examItem idx="23" standard="1" task="1" project="5">
+		<fname>1-23.xlsx</fname>
+		<title>ハイパーリンクの削除</title>
+		<text>ワークシート「ご提案」の「※国内パーティについてもお気軽にご相談ください。」の文字列のハイパーリンクを削除してください。</text>
+	</examItem>
+	<examItem idx="24" standard="5" task="2" project="5">
+		<fname>1-24.xlsx</fname>
+		<title>グラフ</title>
+		<text>ワークシート「ご提案」のグラフにスタイル「スタイル11」を適用してください。次にグラフタイトルを非表示にしてください。</text>
+	</examItem>
+	<examItem idx="25" standard="2" task="3" project="5">
+		<fname>1-25.xlsx</fname>
+		<title>文字列の折り返し</title>
+		<text>ワークシート「ご提案」のセル範囲【C31：G31】とセル範囲【B32：B38】の内容がすべて表示されるように文字列を折り返してください。</text>
+	</examItem>
+	<examItem idx="26" standard="1" task="4" project="5">
+		<fname>1-26.xlsx</fname>
+		<title>ワークシート</title>
+		<text>ワークシート「スケジュール」を表示してください。表示位置は、ワークシート「ご提案」とワークシート「国内会場リスト」の間とします。</text>
+	</examItem>
+	<examItem idx="27" standard="4" task="1" project="6">
+		<fname>1-27.xlsx</fname>
+		<title>数式</title>
+		<text>関数を使って、ワークシート「観葉植物」の小文字表記の列に、英語名を小文字に変換して表示してください。</text>
+	</examItem>
+	<examItem idx="28" standard="2" task="2" project="6">
+		<fname>1-28.xlsx</fname>
+		<title>条件付き書式</title>
+		<text>ワークシート「観葉植物」の最低気温が5度以下のセルに、太字、フォントの色「青」を設定してください。数値が変更されたら、書式が自動的に更新されるようにします。</text>
+	</examItem>
+	<examItem idx="29" standard="3" task="3" project="6">
+		<fname>1-29.xlsx</fname>
+		<title>並べ替え</title>
+		<text>ワークシート「観葉植物」のテーブルを、育てやすさの高い順に並べ替えてください。育てやすさは★5つを最高とします。</text>
+	</examItem>
+	<examItem idx="30" standard="1" task="4" project="6">
+		<fname>1-30.xlsx</fname>
+		<title>拡大縮小印刷</title>
+		<text>ワークシート「観葉植物」を印刷するときに、すべてのデータがB5用紙の縦1ページ、横1ページに収まるように設定してください。印刷の向きは横とします。</text>
+	</examItem>
+	<examItem idx="31" standard="5" task="5" project="6">
+		<fname>1-31.xlsx</fname>
+		<title>グラフ</title>
+		<text>ワークシート「在庫管理」のグラフをセル範囲【H3：N13】に配置してください。次に、グラフにレイアウト「レイアウト4」を適用し、グラフタイトルを「パキラ」と表示してください。</text>
+	</examItem>
+	<examItem idx="32" standard="2" task="1" project="7">
+		<fname>1-32.xlsx</fname>
+		<title>値の貼り付け</title>
+		<text>ワークシート「上期集計」のセル【A3】の値を、ワークシート「1Q売上」の地区名の右隣のセルにコピーしてください。</text>
+	</examItem>
+	<examItem idx="33" standard="4" task="2" project="7">
+		<fname>1-33.xlsx</fname>
+		<title>数式</title>
+		<text>関数を使って、ワークシート「1Q売上」のセル【J4】に、セル【J3】に入力された商品コードの売上件数を表示してください。次に、関数を使って、セル【J5】にセル【J3】に入力された商品コードのレコードの売上金額の平均を表示してください。</text>
+	</examItem>
+	<examItem idx="34" standard="2" task="3" project="7">
+		<fname>1-34.xlsx</fname>
+		<title>セルの書式設定</title>
+		<text>ワークシート「上期集計」のタイトルが表の幅の中央に配置されるようにセルを結合してください。次に、フォントを「游ゴシック」にしてください。</text>
+	</examItem>
+	<examItem idx="35" standard="3" task="4" project="7">
+		<fname>1-35.xlsx</fname>
+		<title>テーブル</title>
+		<text>ワークシート「商品」の表をテーブルに変換し、1行おきに背景の色が付くように書式を適用してください。表の先頭行を見出しとして使用します。行が追加されたら、書式が自動的に更新されるようにします。</text>
+	</examItem>
+</root>

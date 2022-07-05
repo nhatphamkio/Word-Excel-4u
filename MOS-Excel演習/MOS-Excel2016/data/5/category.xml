@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<root>
+	<examCategory idx="1" startItem="1" title="mogi5-kadai1" template="mogi5-kadai1.xlsx">胃腸薬「ソルテン」の採用に関する商談状況をもとに分析を行います。ワークシート「採用状況」には、施設ごとの担当者の情報、最終訪問日、採用見込判定が入力されています。</examCategory>
+	<examCategory idx="2" startItem="5" title="mogi5-kadai2" template="mogi5-kadai2.xlsx">雑誌の売上データを集計します。雑誌には月刊誌と季刊誌があり、衣・食・住・遊の区分に分けられています。ここでは、月刊誌と季刊誌の売上部数や売上金額を分析します。</examCategory>
+	<examCategory idx="3" startItem="10" title="mogi5-kadai3" template="mogi5-kadai3.xlsx">レンタルスペースの運営を行う施設の案内資料を作成します。レンタルスペースの概要、各部屋の予約状況を確認できる一覧表、料金のご案内を各シートに作成します。</examCategory>
+	<examCategory idx="4" startItem="15" title="mogi5-kadai4" template="mogi5-kadai4.xlsx">みなと酒店では、各地の蔵元から仕入れた多くの銘柄の日本酒を販売しています。日本酒リストの体裁を整え、第1四半期の売上データを分析します。</examCategory>
+	<examCategory idx="5" startItem="22" title="mogi5-kadai5" template="mogi5-kadai5.xlsx">FOMシューズショップでは、希望者にメンバーズカードを発行し、様々な優待サービスを実施しています。ここでは、過去5年間のメンバーズカード申込者数の推移を分析します。</examCategory>
+	<examCategory idx="6" startItem="26" title="mogi5-kadai6" template="mogi5-kadai6.xlsx">月刊誌の年間売上を集計します。3か月ごとの販売データをもとに年間の売上金額を集計します。また1～3月号の傾向を分析し、売れ筋商品を確認します。</examCategory>
+	<examCategory idx="7" startItem="30" title="mogi5-kadai7" template="mogi5-kadai7.xlsx">ギフトセットの売上一覧表のテーブルを使って、データを分析します。また各店舗の売上を比較するためのグラフを作成します。</examCategory>
+</root>

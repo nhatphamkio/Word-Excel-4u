@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<root>
+		<readHead></readHead>
+		<read></read>
+	<examItem idx="1" standard="1" task="1" project="1">
+		<fname>2-01.docx</fname>
+		<title>テーマ</title>
+		<text>テーマの色を黄緑に変更してください。</text>
+	</examItem>
+	<examItem idx="2" standard="1" task="2" project="1">
+		<fname>2-02.docx</fname>
+		<title>ファイルの挿入</title>
+		<text>「効率的な掃除の方法」の下に、デスクトップのフォルダー「FOM Shuppan Documents」のフォルダー「MOS-Word2016(2)」の文書「効率的な掃除.docx」を挿入してください。挿入した段落の書式はすべてクリアします。</text>
+	</examItem>
+	<examItem idx="3" standard="5" task="3" project="1">
+		<fname>2-03.docx</fname>
+		<title>SmartArtグラフィック</title>
+		<text>1ページ目のSmartArtグラフィックの図表のレイアウトをボックス循環に変更し、文字列に太字と斜体を設定してください。</text>
+	</examItem>
+	<examItem idx="4" standard="1" task="4" project="1">
+		<fname>2-04.docx</fname>
+		<title>ジャンプ</title>
+		<text>ブックマーク「裏ワザ」を使ってジャンプし、「掃除の裏ワザ」にスタイル「見出し1」を設定してください。</text>
+	</examItem>
+	<examItem idx="5" standard="2" task="5" project="1">
+		<fname>2-05.docx</fname>
+		<title>セクション区切り</title>
+		<text>「掃除の裏ワザ」が3ページ目の先頭に表示されるように、ページを区切ってください。3ページ目の用紙は横向きのはがきに変更し、余白は上下左右とも「5mm」に設定します。</text>
+	</examItem>
+	<examItem idx="6" standard="3" task="6" project="1">
+		<fname>2-06.docx</fname>
+		<title>表</title>
+		<text>表の1列目の列幅を「21mm」、2列目の列幅を「115mm」に設定し、表の1行目「台所」の行と、5行目「洗面所」の行をそれぞれ結合してください。</text>
+	</examItem>
+	<examItem idx="7" standard="4" task="7" project="1">
+		<fname>2-07.docx</fname>
+		<title>資料文献</title>
+		<text>文末の引用文献を編集して、発行された年とタイトルだけを表示してください。</text>
+	</examItem>
+	<examItem idx="8" standard="5" task="1" project="2">
+		<fname>2-08.docx</fname>
+		<title>図</title>
+		<text>「お口の中は健康ですか？」の下にあるグラフの文字列の折り返しを四角形に設定し、余白に合わせて右に配置してください。</text>
+	</examItem>
+	<examItem idx="9" standard="2" task="2" project="2">
+		<fname>2-09.docx</fname>
+		<title>インデント</title>
+		<text>「歯周病の原因」の下の箇条書きと、「歯周病の予防」の下の箇条書きのぶら下げインデントを「2字」に設定してください。</text>
+	</examItem>
+	<examItem idx="10" standard="2" task="3" project="2">
+		<fname>2-10.docx</fname>
+		<title>段組み</title>
+		<text>「歯周病の原因」から「…ブラッシング教室に参加する」までの段落を境界線のある2段組みに設定してください。1段目の幅を「29字」、2段目の幅を「16字」に設定します。</text>
+	</examItem>
+	<examItem idx="11" standard="2" task="4" project="2">
+		<fname>2-11.docx</fname>
+		<title>文字書式</title>
+		<text>「6月のブラッシング教室（定員50名）」に囲み線を設定してください。</text>
+	</examItem>
+	<examItem idx="12" standard="1" task="5" project="2">
+		<fname>2-12.docx</fname>
+		<title>ヘッダー</title>
+		<text>ヘッダーに「6月4日発行」と入力し、右にそろえて配置してください。</text>
+	</examItem>
+	<examItem idx="13" standard="1" task="1" project="3">
+		<fname>2-13.docx</fname>
+		<title>文字書式</title>
+		<text>タイトル「平成29年度…」に文字の効果「塗りつぶし：黒、文字色1；影」を設定してください。</text>
+	</examItem>
+	<examItem idx="14" standard="3" task="2" project="3">
+		<fname>2-14.docx</fname>
+		<title>表</title>
+		<text>1つ目の表の左端に1列追加し、1行目に「施設」、2行目に「校庭」、5行目に「体育館」と入力してください。1列目の列幅を文字列の長さに合わせて自動調整し、2行目から4行目、5行目から8行目をそれぞれ結合してください。</text>
+	</examItem>
+	<examItem idx="15" standard="3" task="3" project="3">
+		<fname>2-15.docx</fname>
+		<title>表</title>
+		<text>1つ目の表のタイトル行を、表スタイルのオプションを使って強調してください。</text>
+	</examItem>
+	<examItem idx="16" standard="3" task="4" project="3">
+		<fname>2-16.docx</fname>
+		<title>表</title>
+		<text>校庭の表のタイトル行が次のページにも表示されるように設定してください。</text>
+	</examItem>
+	<examItem idx="17" standard="2" task="1" project="4">
+		<fname>2-17.docx</fname>
+		<title>置換</title>
+		<text>文書内の「山田さん」を「内山さん」に置換してください。</text>
+	</examItem>
+	<examItem idx="18" standard="2" task="2" project="4">
+		<fname>2-18.docx</fname>
+		<title>ドロップキャップ</title>
+		<text>「DIVING CLUB NEWS 2017年8月号」の段落にドロップキャップを設定してください。先頭の文字は本文内に表示し、ドロップする行数を「3」、本文からの距離を「5mm」に設定します。設定後、段落後の間隔を「1行」に変更してください。</text>
+	</examItem>
+	<examItem idx="19" standard="5" task="3" project="4">
+		<fname>2-19.docx</fname>
+		<title>図</title>
+		<text>1ページ目の最後にある「…それに尽きます。」の後ろに、デスクトップのフォルダー「FOM Shuppan Documents」のフォルダー「MOS-Word2016(2)」の図「海.jpg」を挿入し、幅を「74mm」に設定してください。文字列の折り返しを四角形に設定し、余白に合わせて右下に配置します。</text>
+	</examItem>
+	<examItem idx="20" standard="3" task="4" project="4">
+		<fname>2-20.docx</fname>
+		<title>表</title>
+		<text>2ページ目の「順位…」から「…日本人も多いので安心です。」までの段落を文字列の幅に合わせて4行3列の表に変換し、スタイル「一覧（表）4-アクセント2」を適用してください。表の1行目は中央揃えにします。</text>
+	</examItem>
+	<examItem idx="21" standard="1" task="5" project="4">
+		<fname>2-21.docx</fname>
+		<title>ブックマーク</title>
+		<text>2ページ目の「ダイビングをもっと楽しむには…」に、ブックマーク「Cカードの取得」を作成してください。</text>
+	</examItem>
+	<examItem idx="22" standard="4" task="6" project="4">
+		<fname>2-22.docx</fname>
+		<title>文末脚注</title>
+		<text>文書内の文末脚注を脚注に変換してください。</text>
+	</examItem>
+	<examItem idx="23" standard="1" task="1" project="5">
+		<fname>2-23.docx</fname>
+		<title>ページの色</title>
+		<text>ページの色を「ゴールド、アクセント4、白+基本色80％」に設定してください。</text>
+	</examItem>
+	<examItem idx="24" standard="3" task="2" project="5">
+		<fname>2-24.docx</fname>
+		<title>段落番号</title>
+		<text>「9：30～12：00」と「14：00～16：30」の段落に、「第1回、第2回」という番号書式の段落番号を設定してください。</text>
+	</examItem>
+	<examItem idx="25" standard="2" task="3" project="5">
+		<fname>2-25.docx</fname>
+		<title>段組み</title>
+		<text>「■日時」から「コース料理試食会」までの段落を2段組みに設定してください。</text>
+	</examItem>
+	<examItem idx="26" standard="5" task="4" project="5">
+		<fname>2-26.docx</fname>
+		<title>SmartArtグラフィック </title>
+		<text>SmartArtグラフィックの図表のレイアウトを表題付き画像に変更してください。</text>
+	</examItem>
+	<examItem idx="27" standard="5" task="5" project="5">
+		<fname>2-27.docx</fname>
+		<title>テキストボックス</title>
+		<text>「◆」から「URL：http://www.hayamabridal.xx.xx」までの段落を横書きテキストボックスに変更し、スタイル「枠線のみ-青、アクセント1」を適用してください。テキストボックスのサイズは高さ「42mm」、幅「172mm」に設定し、余白に合わせて中央下に配置します。</text>
+	</examItem>
+	<examItem idx="28" standard="1" task="1" project="6">
+		<fname>2-28.docx</fname>
+		<title>テーマ</title>
+		<text>テーマの色をシックに変更してください。</text>
+	</examItem>
+	<examItem idx="29" standard="2" task="2" project="6">
+		<fname>2-29.docx</fname>
+		<title>ワードアート</title>
+		<text>「エフオーエム海外旅行保険」の段落を、ワードアート「塗りつぶし：白；輪郭：赤、アクセントカラー2；影（ぼかしなし）：赤、アクセントカラー2」に変更してください。フォントは「HGS創英プレゼンスEB」、フォントサイズは「39ポイント」に設定し、太字は解除します。</text>
+	</examItem>
+	<examItem idx="30" standard="3" task="3" project="6">
+		<fname>2-30.docx</fname>
+		<title>表</title>
+		<text>「商品概要」の下の表に、スタイル「グリッド（表）5濃色-アクセント1」を適用し、セルの上下の余白を「1mm」に設定してください。「治療・救援費用」の「タイプA」から「タイプD」、「賠償責任」の「タイプA」から「タイプD」のセルをそれぞれ結合してください。</text>
+	</examItem>
+	<examItem idx="31" standard="1" task="4" project="6">
+		<fname>2-31.docx</fname>
+		<title>ハイパーリンク</title>
+		<text>表の下の「メール」に「info@fomsonpo.xx.xx」へのハイパーリンクを挿入してください。
+※挿入したハイパーリンクはクリックしないこと。</text>
+	</examItem>
+	<examItem idx="32" standard="1" task="1" project="7">
+		<fname>2-32.docx</fname>
+		<title>ページ設定</title>
+		<text>文書の余白を「やや狭い」に設定してください。</text>
+	</examItem>
+	<examItem idx="33" standard="2" task="2" project="7">
+		<fname>2-33.docx</fname>
+		<title>ページ区切り</title>
+		<text>「第1章　情報を守る」から次のページに表示されるようにページを区切ってください。</text>
+	</examItem>
+	<examItem idx="34" standard="4" task="3" project="7">
+		<fname>2-34.docx</fname>
+		<title>目次</title>
+		<text>1ページ目の「…解説します。」の下に、自動作成の目次1を挿入してください。</text>
+	</examItem>
+	<examItem idx="35" standard="1" task="4" project="7">
+		<fname>2-35.docx</fname>
+		<title>ページ番号</title>
+		<text>ページの下部にページ番号「太字の番号2」を挿入してください。</text>
+	</examItem>
+</root>

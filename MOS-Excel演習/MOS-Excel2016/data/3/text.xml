@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<root>
+		<readHead></readHead>
+		<read></read>
+	<examItem idx="1" standard="3" task="1" project="1">
+		<fname>3-01.xlsx</fname>
+		<title>テーブル</title>
+		<text>ワークシート「会員」のテーブルに集計行を追加し、平均年齢を表示してください。次に、ワークシート「商品」のテーブルから「しっとりジェル（S）」のレコードを削除してください。</text>
+	</examItem>
+	<examItem idx="2" standard="1" task="2" project="1">
+		<fname>3-02.xlsx</fname>
+		<title>ハイパーリンク</title>
+		<text>ワークシート「商品」のセル【D1】にハイパーリンクを挿入してください。文字列「商品詳細」と表示し、リンク先は「http://www.fom.fujitsu.com/goods/」とします。また、ハイパーリンクをポイントすると「商品のホームページへ」と表示されるようにします。※挿入したハイパーリンクはクリックしないこと。</text>
+	</examItem>
+	<examItem idx="3" standard="3" task="3" project="1">
+		<fname>3-03.xlsx</fname>
+		<title>並べ替え</title>
+		<text>ワークシート「商品」のテーブルを商品分類が「ボディケア、フェイスケア、ダイエット食品、スリム器具」の順番に並べ替えてください。商品分類が同じ場合は発売日の新しい順に並べ替えます。さらに、発売日が同じ場合は価格の昇順に並べ替えます。</text>
+	</examItem>
+	<examItem idx="4" standard="4" task="4" project="1">
+		<fname>3-04.xlsx</fname>
+		<title>数式</title>
+		<text>関数を使って、ワークシート「売上」のセル【K2】に1注文あたりの売上平均を表示してください。</text>
+	</examItem>
+	<examItem idx="5" standard="2" task="5" project="1">
+		<fname>3-05.xlsx</fname>
+		<title>条件付き書式</title>
+		<text>ワークシート「売上」の売上価格が平均より大きいセルに「濃い黄色の文字、黄色の背景」を設定してください。数値が更新されたら、書式が自動的に更新されるようにします。</text>
+	</examItem>
+	<examItem idx="6" standard="3" task="6" project="1">
+		<fname>3-06.xlsx</fname>
+		<title>重複の削除</title>
+		<text>ワークシート「売上」のテーブルから「No.」が重複するレコードを削除してください。その他のレコードは削除しないようにします。</text>
+	</examItem>
+	<examItem idx="7" standard="5" task="7" project="1">
+		<fname>3-07.xlsx</fname>
+		<title>グラフ</title>
+		<text>ワークシート「集計」のグラフをグラフシート「売上推移」に移動してください。</text>
+	</examItem>
+	<examItem idx="8" standard="2" task="1" project="2">
+		<fname>3-08.xlsx</fname>
+		<title>スパークライン</title>
+		<text>ワークシート「営業所別売上」の表の項目名に月を入力してください。5月から翌年の3月までを入力します。次に、営業所の月ごとの売上をもとに、売上推移に縦棒スパークラインを挿入してください。縦軸の最小値は「0」にし、最大値は「すべてのスパークラインで同じ値」にします。さらに、データの最大値を強調します。</text>
+	</examItem>
+	<examItem idx="9" standard="4" task="2" project="2">
+		<fname>3-09.xlsx</fname>
+		<title>数式</title>
+		<text>関数を使って、ワークシート「営業所別売上」の北海道営業所の売上合計を表示してください。次に、年間目標の列を削除してください。</text>
+	</examItem>
+	<examItem idx="10" standard="5" task="3" project="2">
+		<fname>3-10.xlsx</fname>
+		<title>グラフ</title>
+		<text>ワークシート「営業所別売上」のグラフの項目軸に営業所名を表示してください。</text>
+	</examItem>
+	<examItem idx="11" standard="5" task="4" project="2">
+		<fname>3-11.xlsx</fname>
+		<title>グラフ</title>
+		<text>ワークシート「営業所別売上」のグラフの値軸の単位を「1000000」に変更してください。次に、グラフのデータ系列にデータラベルを表示してください。表示する位置はデータ系列の外側とします。</text>
+	</examItem>
+	<examItem idx="12" standard="3" task="5" project="2">
+		<fname>3-12.xlsx</fname>
+		<title>テーブル</title>
+		<text>ワークシート「営業所」の表をテーブルに変換し、1行おきに背景の色が付くように書式を適用してください。表の先頭行を見出しとして使用します。行が追加されたら、書式が自動的に更新されるようにします。</text>
+	</examItem>
+	<examItem idx="13" standard="1" task="6" project="2">
+		<fname>3-13.xlsx</fname>
+		<title>プロパティ</title>
+		<text>ブックのプロパティのタイトルに「営業所別売上」と設定してください。</text>
+	</examItem>
+	<examItem idx="14" standard="5" task="1" project="3">
+		<fname>3-14.xlsx</fname>
+		<title>画像</title>
+		<text>「FOM FISH ISLAND」のタイトルの右に、デスクトップのフォルダー「FOM Shuppan Documents」のフォルダー「MOS-Excel2016（2）」にある画像「fish.jpg」を挿入してください。画像は、セル【E2】に配置します。</text>
+	</examItem>
+	<examItem idx="15" standard="2" task="2" project="3">
+		<fname>3-15.xlsx</fname>
+		<title>表示形式</title>
+		<text>気温を小数点以下1桁で表示してください。</text>
+	</examItem>
+	<examItem idx="16" standard="2" task="3" project="3">
+		<fname>3-16.xlsx</fname>
+		<title>条件付き書式</title>
+		<text>気温が30度以上のセルにフォントの色「オレンジ、アクセント2、黒+基本色25％」を設定してください。数値が変更されたら、書式が自動的に更新されるようにします。</text>
+	</examItem>
+	<examItem idx="17" standard="2" task="4" project="3">
+		<fname>3-17.xlsx</fname>
+		<title>条件付き書式</title>
+		<text>販売数に「3つの矢印（色分け）」のアイコンセットを設定してください。販売数が300以上のセルに緑の上矢印、250以上のセルに黄色の横矢印、それ以外のセルに赤の下矢印を表示します。</text>
+	</examItem>
+	<examItem idx="18" standard="1" task="5" project="3">
+		<fname>3-18.xlsx</fname>
+		<title>ワークシート</title>
+		<text>ワークシート「7月」を右側にコピーしてください。ワークシート名は「8月」とします。次に、ワークシート「8月」の日付、気温、天気、販売数のデータを削除し、2016年8月の日付を入力してください。</text>
+	</examItem>
+	<examItem idx="19" standard="4" task="1" project="4">
+		<fname>3-19.xlsx</fname>
+		<title>数式</title>
+		<text>関数を使って、ワークシート「生徒」のローマ字（大文字）の列に、D列のローマ字を大文字に変換して表示してください。</text>
+	</examItem>
+	<examItem idx="20" standard="4" task="2" project="4">
+		<fname>3-20.xlsx</fname>
+		<title>数式</title>
+		<text>関数を使って、ワークシート「試験結果」のセル【I2】に、合計点が280点以上の人数を表示してください。</text>
+	</examItem>
+	<examItem idx="21" standard="4" task="3" project="4">
+		<fname>3-21.xlsx</fname>
+		<title>数式</title>
+		<text>関数を使って、ワークシート「試験結果」の最高点の行に科目別の最高点を表示してください。</text>
+	</examItem>
+	<examItem idx="22" standard="5" task="4" project="4">
+		<fname>3-22.xlsx</fname>
+		<title>グラフ</title>
+		<text>ワークシート「試験分析」のグラフをセル範囲【C7：H18】に配置してください。次に、凡例を右側に表示してください。</text>
+	</examItem>
+	<examItem idx="23" standard="1" task="1" project="5">
+		<fname>3-23.xlsx</fname>
+		<title>テーマ</title>
+		<text>ブックのテーマを「ウィスプ」に変更してください。次に、「セミナー申込確認書」と入力されている行の高さを「35」に設定し、タイトル「セミナー申込確認書」はセル範囲【B2：F2】をセル結合して中央に配置してください。</text>
+	</examItem>
+	<examItem idx="24" standard="2" task="2" project="5">
+		<fname>3-24.xlsx</fname>
+		<title>セルのスタイル</title>
+		<text>セル範囲【B25：F25】に「見出し2」、明細行の1行目と3行目と5行目に「ベージュ，40％-アクセント3」、セル範囲【D32：F34】に「集計」のセルのスタイルを適用してください。「ベージュ，40％-アクセント3」のスタイルがない場合は、「40％-アクセント3」を適用します。</text>
+	</examItem>
+	<examItem idx="25" standard="2" task="3" project="5">
+		<fname>3-25.xlsx</fname>
+		<title>セルの結合</title>
+		<text>25～31行目のC～E列をそれぞれ結合してください。文字の配置は変更しないようにします。25行目のセルには「明細内訳」と保持されるようにします。</text>
+	</examItem>
+	<examItem idx="26" standard="1" task="4" project="5">
+		<fname>3-26.xlsx</fname>
+		<title>拡大縮小印刷</title>
+		<text>印刷するときにすべてのデータが縦1ページ、横1ページに収まるように設定してください。印刷の向きは縦とします。</text>
+	</examItem>
+	<examItem idx="27" standard="1" task="1" project="6">
+		<fname>3-27.xlsx</fname>
+		<title>数式の表示</title>
+		<text>ワークシート「年間」の数式を非表示にしてください。</text>
+	</examItem>
+	<examItem idx="28" standard="4" task="2" project="6">
+		<fname>3-28.xlsx</fname>
+		<title>数式</title>
+		<text>関数を使って、ワークシート「年間」の予算達成状況に売上実績が予算を達成している場合は「○」、達成していない場合は「×」を表示してください。表の書式は変更しないようにします。</text>
+	</examItem>
+	<examItem idx="29" standard="5" task="3" project="6">
+		<fname>3-29.xlsx</fname>
+		<title>グラフ</title>
+		<text>ワークシート「年間」の支店別の売上実績の割合を示す3-D円グラフを作成してください。グラフにスタイル「スタイル3」を適用し、セル範囲【G5：M17】に配置します。</text>
+	</examItem>
+	<examItem idx="30" standard="2" task="4" project="6">
+		<fname>3-30.xlsx</fname>
+		<title>書式のコピー</title>
+		<text>ワークシート「1Q」の表の書式をワークシート「2Q」「3Q」「4Q」の表にコピーしてください。</text>
+	</examItem>
+	<examItem idx="31" standard="1" task="1" project="7">
+		<fname>3-31.xlsx</fname>
+		<title>印刷タイトル</title>
+		<text>ワークシート「0701」のすべてのページに3行目が印刷されるように設定してください。</text>
+	</examItem>
+	<examItem idx="32" standard="1" task="2" project="7">
+		<fname>3-32.xlsx</fname>
+		<title>ヘッダーとフッター</title>
+		<text>ワークシート「0701」のフッターの中央にページ番号/ページ数を挿入してください。「/」は半角で入力します。</text>
+	</examItem>
+	<examItem idx="33" standard="5" task="3" project="7">
+		<fname>3-33.xlsx</fname>
+		<title>グラフ</title>
+		<text>ワークシート「時間帯別」の3-D縦棒グラフに19時の購入金額を追加してください。</text>
+	</examItem>
+	<examItem idx="34" standard="1" task="4" project="7">
+		<fname>3-34.xlsx</fname>
+		<title>テキストファイルのインポート</title>
+		<text>ワークシート「0702」のセル【B3】に、デスクトップのフォルダー「FOM Shuppan Documents」のフォルダー「MOS-Excel2016（2）」にあるカンマ区切りのテキストファイル「uriage.csv」のデータをインポートしてください。次に、B～G列の列幅を「10」に設定してください。</text>
+	</examItem>
+	<examItem idx="35" standard="1" task="5" project="7">
+		<fname>3-35.xlsx</fname>
+		<title>アクセシビリティチェック</title>
+		<text>ブックのアクセシビリティをチェックし、エラーを修正してください。グラフの代替テキストのタイトルは「時間帯別購入金額」と設定します。</text>
+	</examItem>
+</root>

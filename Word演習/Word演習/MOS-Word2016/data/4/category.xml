@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<root>
+<examCategory idx="1" startItem="1" title="mogi4-kadai1" template="mogi4-kadai1.docx">あなたは、八ヶ岳にある保養所の案内チラシを作成します。チラシは2ページで構成します。</examCategory>
+<examCategory idx="2" startItem="8" title="mogi4-kadai2" template="mogi4-kadai2.docx">あなたは、FOMコンサルタント株式会社で働く社員です。自社の会員に向けたセミナーの案内を作成しています。</examCategory>
+<examCategory idx="3" startItem="12" title="mogi4-kadai3" template="mogi4-kadai3.docx">あなたは、人事部の人材教育を担当しています。中堅社員スキルアップ研修の実施に伴い、出席予定者に受講日程の確認を行うレポートを作成することになりました。</examCategory>
+<examCategory idx="4" startItem="16" title="mogi4-kadai4" template="mogi4-kadai4.docx">あなたは、新しく開館した美術館の案内を作成しています。</examCategory>
+<examCategory idx="5" startItem="22" title="mogi4-kadai5" template="mogi4-kadai5.docx">あなたは、花火大会開催の案内はがきを作成します。</examCategory>
+<examCategory idx="6" startItem="27" title="mogi4-kadai6" template="mogi4-kadai6.docx">あなたは、カルチャースクールの受講生募集のチラシを作成しています。</examCategory>
+<examCategory idx="7" startItem="31" title="mogi4-kadai7" template="mogi4-kadai7.docx">あなたは、ファシリティマネジメントの勉強会資料を作成します。資料は6ページで構成します。</examCategory>
+</root>

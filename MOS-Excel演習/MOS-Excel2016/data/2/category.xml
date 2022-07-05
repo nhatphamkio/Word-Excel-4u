@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<root>
+	<examCategory idx="1" startItem="1" title="mogi2-kadai1" template="mogi2-kadai1.xlsx">水泳選手権大会における100m男子自由形の優勝記録についてまとめたブックを作成します。ワークシート「歴代優勝者」には大会優勝者の記録、ワークシート「優勝回数」には所属チームごとの優勝回数が入力されています。</examCategory>
+	<examCategory idx="2" startItem="8" title="mogi2-kadai2" template="mogi2-kadai2.xlsx">FOMスポーツでは、テントや寝袋などのアウトドア用品を販売しています。取扱商品の在庫状況や地域ごとの売れ行きを集計します。</examCategory>
+	<examCategory idx="3" startItem="14" title="mogi2-kadai3" template="mogi2-kadai3.xlsx">フルーツパーラーSAKURAでは、旬のフルーツを使った限定メニューを販売しています。これらのメニューの1月第2週目の売上状況を集計します。</examCategory>
+	<examCategory idx="4" startItem="19" title="mogi2-kadai4" template="mogi2-kadai4.xlsx">みなと生涯学習カレッジでは、実務系、ペン字、アートなど様々な講座を開講しています。各講座の申込者数を分析する集計表やグラフを作成します。</examCategory>
+	<examCategory idx="5" startItem="23" title="mogi2-kadai5" template="mogi2-kadai5.xlsx">海外挙式の提案資料を作成します。セルの配置やグラフのスタイルを設定し、シートの体裁を整えます。</examCategory>
+	<examCategory idx="6" startItem="27" title="mogi2-kadai6" template="mogi2-kadai6.xlsx">GREEN HOME PLANTSでは、観葉植物の販売を行っています。取扱商品の一覧や在庫管理の表を作成します。</examCategory>
+	<examCategory idx="7" startItem="32" title="mogi2-kadai7" template="mogi2-kadai7.xlsx">海外で日本食材を販売するFOM JAPANの各支店のデータをもとに、上期の売上を分析します。</examCategory>
+</root>

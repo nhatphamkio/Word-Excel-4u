@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<root>
+    <readHead></readHead>
+    <read></read>
+  <examItem idx="1" standard="1" task="1" project="1">
+    <fname>5-01.docx</fname>
+    <title>テーマ</title>
+    <text>レトロスペクトのテーマを適用し、テーマの色をシックに変更してください。</text>
+  </examItem>
+  <examItem idx="2" standard="2" task="2" project="1">
+    <fname>5-02.docx</fname>
+    <title>ドロップキャップ</title>
+    <text>「食と地域経済」の段落にドロップキャップを設定してください。先頭の文字は本文内に表示し、ドロップする行数を「3」、本文からの距離を「5mm」にします。</text>
+  </examItem>
+  <examItem idx="3" standard="2" task="3" project="1">
+    <fname>5-03.docx</fname>
+    <title>スタイル</title>
+    <text>1ページ目の「B級グルメとB-1グランプリ」「B-1グランプリが地域にもたらす経済効果」、2ページ目の「経済効果の主な内訳」「過去の開催結果」「まとめ」にスタイル「見出し1」を設定してください。</text>
+  </examItem>
+  <examItem idx="4" standard="4" task="4" project="1">
+    <fname>5-04.docx</fname>
+    <title>資料文献</title>
+    <text>文末に引用文献を挿入してください。挿入する引用文献は、種類「論文/レポート」、タイトル「緑の分権改革の推進に係る取組の経済効果等の分析に関する調査業務」、年「2011」、発行元「総務省」とし、資料文献にも登録します。</text>
+  </examItem>
+  <examItem idx="5" standard="3" task="5" project="1">
+    <fname>5-05.docx</fname>
+    <title>箇条書き</title>
+    <text>1ページ目の「B-1グランプリが地域にもたらす経済効果」の下にある「富士宮焼きそば…」「厚木シロコロ…」の段落と、「第4回B-1…」「第5回B-1…」の段落のレベルをレベル2に設定してください。</text>
+  </examItem>
+  <examItem idx="6" standard="5" task="6" project="1">
+    <fname>5-06.docx</fname>
+    <title>SmartArtグラフィック</title>
+    <text>SmartArtグラフィックの図表にスタイル「グラデーション」を適用し、色を「カラフル-アクセント3から4」に変更してください。</text>
+  </examItem>
+  <examItem idx="7" standard="3" task="7" project="1">
+    <fname>5-07.docx</fname>
+    <title>表</title>
+    <text>表に、スタイル「一覧（表）6カラフル-アクセント3」を適用し、開催日程の降順に並べ替えてください。</text>
+  </examItem>
+  <examItem idx="8" standard="4" task="1" project="2">
+    <fname>5-08.docx</fname>
+    <title>図表番号</title>
+    <text>1ページ目の地図の下と2ページ目のSmartArtグラフィックの下に図表番号を設定してください。ラベルは「図表」とし、内容は、地図「集合・解散場所」、SmartArtグラフィック「旅程表」とします。</text>
+  </examItem>
+  <examItem idx="9" standard="1" task="2" project="2">
+    <fname>5-09.docx</fname>
+    <title>ブックマーク</title>
+    <text>2ページ目の「■旅程表」に、ブックマーク「旅程表」を作成してください。</text>
+  </examItem>
+  <examItem idx="10" standard="1" task="3" project="2">
+    <fname>5-10.docx</fname>
+    <title>ページ番号</title>
+    <text>ページの下部にページ番号「細い線」を挿入してください。</text>
+  </examItem>
+  <examItem idx="11" standard="4" task="4" project="2">
+    <fname>5-11.docx</fname>
+    <title>表紙</title>
+    <text>表紙「縞模様」を挿入してください。会社名、会社の住所は削除します。</text>
+  </examItem>
+  <examItem idx="12" standard="5" task="5" project="2">
+    <fname>5-12.docx</fname>
+    <title>テキストボックス</title>
+    <text>文末に、スタイル「レトロスペクト-引用」のテキストボックスを挿入し、「労働組合…」から「…（内線310-XXXX）」までの段落を切り取って貼り付けてください。</text>
+  </examItem>
+  <examItem idx="13" standard="3" task="1" project="3">
+    <fname>5-13.docx</fname>
+    <title>段落番号</title>
+    <text>記書きの「応募条件…」と「謝　　礼…」の段落に、上から連続する段落番号を設定してください。</text>
+  </examItem>
+  <examItem idx="14" standard="3" task="2" project="3">
+    <fname>5-14.docx</fname>
+    <title>表</title>
+    <text>表の「お名前」と「ご住所」のセルの高さを揃えてください。</text>
+  </examItem>
+  <examItem idx="15" standard="2" task="3" project="3">
+    <fname>5-15.docx</fname>
+    <title>コピー</title>
+    <text>表の1行目の「／」の後ろに、記書きの「カラット満点」をコピーして貼り付けてください。</text>
+  </examItem>
+  <examItem idx="16" standard="1" task="4" project="3">
+    <fname>5-16.docx</fname>
+    <title>ドキュメント検査</title>
+    <text>ドキュメント検査を行い、文書のプロパティと個人情報を削除してください。</text>
+  </examItem>
+  <examItem idx="17" standard="1" task="1" project="4">
+    <fname>5-17.docx</fname>
+    <title>透かし</title>
+    <text>ページの背景にある透かし「サンプル」を削除してください。</text>
+  </examItem>
+  <examItem idx="18" standard="1" task="2" project="4">
+    <fname>5-18.docx</fname>
+    <title>スタイルセット</title>
+    <text>スタイルセット「影付き」を設定してください。</text>
+  </examItem>
+  <examItem idx="19" standard="2" task="3" project="4">
+    <fname>5-19.docx</fname>
+    <title>段組み</title>
+    <text>「カレーベース　50g」から「塩　少々」までの段落を境界線のある3段組みに設定し、段落の前後の間隔を削除してください。</text>
+  </examItem>
+  <examItem idx="20" standard="3" task="4" project="4">
+    <fname>5-20.docx</fname>
+    <title>段落番号</title>
+    <text>「①　合挽肉を③に加えて炒める」の開始番号が「④」から始まるように変更してください。</text>
+  </examItem>
+  <examItem idx="21" standard="4" task="5" project="4">
+    <fname>5-21.docx</fname>
+    <title>脚注</title>
+    <text>脚注番号の番号書式を「A,B,C,…」に変更してください。</text>
+  </examItem>
+  <examItem idx="22" standard="5" task="6" project="4">
+    <fname>5-22.docx</fname>
+    <title>図</title>
+    <text>カレーの写真に、影の効果「内側：中央」を設定し、段を基準にして左揃え、余白を基準にして下方向の距離「44mm」に配置してください。</text>
+  </examItem>
+  <examItem idx="23" standard="1" task="1" project="5">
+    <fname>5-23.docx</fname>
+    <title>検索</title>
+    <text>文書内の「ランチ」を検索して、「日替わりランチ」に修正してください。</text>
+  </examItem>
+  <examItem idx="24" standard="3" task="2" project="5">
+    <fname>5-24.docx</fname>
+    <title>表</title>
+    <text>「20日（月）」の行から表を分割してください。</text>
+  </examItem>
+  <examItem idx="25" standard="2" task="3" project="5">
+    <fname>5-25.docx</fname>
+    <title>書式のコピー/貼り付け</title>
+    <text>分割された表の上に、「Next Week Lunch　11/20～11/24」を切り取って貼り付け、「This Week Lunch　11/13～11/17」の書式をコピーしてください。書式のコピー後、フォントの色を「緑、アクセント1、黒+基本色25％」に変更してください。ページ内の余分な空白行は削除します。</text>
+  </examItem>
+  <examItem idx="26" standard="1" task="4" project="5">
+    <fname>5-26.docx</fname>
+    <title>保存</title>
+    <text>文書に「メニュー」という名前を付けて、デスクトップのフォルダー「FOM Shuppan Documents」のフォルダー「MOS-Word2016(2)」にPDFファイルとして保存してください。発行後にPDFファイルは開かないようにします。</text>
+  </examItem>
+  <examItem idx="27" standard="3" task="1" project="6">
+    <fname>5-27.docx</fname>
+    <title>表</title>
+    <text>表にスタイル「グリッド（表）4-アクセント6」を適用し、最初の列のオプションを解除してください。表の1列目と4～7列目をセルの中央右に、1
+行目の項目名をセル内で中央にそろえて配置してください。</text>
+  </examItem>
+  <examItem idx="28" standard="3" task="2" project="6">
+    <fname>5-28.docx</fname>
+    <title>表</title>
+    <text>表が複数ページで構成された場合に、タイトル行が次のページにも表示されるように設定してください。</text>
+  </examItem>
+  <examItem idx="29" standard="3" task="3" project="6">
+    <fname>5-29.docx</fname>
+    <title>表</title>
+    <text>表のタイトル行を除くセルの上下の余白を「0.5mm」に設定してください。</text>
+  </examItem>
+  <examItem idx="30" standard="1" task="4" project="6">
+    <fname>5-30.docx</fname>
+    <title>フッター</title>
+    <text>フッターに「元号○○年○○月○○日」の形式で本日の日付を挿入してください。日付に続けて「現在　あかね台不動産販売」と入力し、右にそろえて配置してください。
+※「現在」の後ろに全角空白を1文字入力すること。</text>
+  </examItem>
+  <examItem idx="31" standard="1" task="5" project="6">
+    <fname>5-31.docx</fname>
+    <title>プロパティ</title>
+    <text>文書のプロパティのタイトルに「住宅情報」、キーワードに「横浜」を設定してください。</text>
+  </examItem>
+  <examItem idx="32" standard="1" task="1" project="7">
+    <fname>5-32.docx</fname>
+    <title>テーマ</title>
+    <text>テーマのフォントをGeorgiaに設定してください。</text>
+  </examItem>
+  <examItem idx="33" standard="1" task="2" project="7">
+    <fname>5-33.docx</fname>
+    <title>ページの色</title>
+    <text>ページの色を「ゴールド、アクセント4、白+基本色80％」に設定してください。</text>
+  </examItem>
+  <examItem idx="34" standard="2" task="3" project="7">
+    <fname>5-34.docx</fname>
+    <title>置換</title>
+    <text>文書内の半角のスペースをすべて削除してください。</text>
+  </examItem>
+  <examItem idx="35" standard="5" task="4" project="7">
+    <fname>5-35.docx</fname>
+    <title>テキストボックス</title>
+    <text>「日時…」から「…水筒」までの段落を横書きテキストボックスに変更し、フォントサイズを「20ポイント」に設定してください。スタイル「パステル-オレンジ、アクセント2」を適用し、用紙に合わせて左右の中央に配置します。</text>
+  </examItem>
+</root>

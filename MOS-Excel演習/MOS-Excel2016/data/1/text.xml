@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<root>
+		<readHead></readHead>
+		<read></read>
+	<examItem idx="1" standard="5" task="1" project="1">
+		<fname>1-01.xlsx</fname>
+		<title>画像</title>
+		<text>画像の回転を90度に変更してください。次に、アート効果「テクスチャライザー」を設定してください。</text>
+	</examItem>
+	<examItem idx="2" standard="2" task="2" project="1">
+		<fname>1-02.xlsx</fname>
+		<title>セルの配置</title>
+		<text>「全生徒数：」「クラス人数：」「12週間：」「24週間：」「36週間：」「48週間：」を右詰めで表示してください。次に、B～D列の列幅を「11.5」に設定してください。</text>
+	</examItem>
+	<examItem idx="3" standard="2" task="3" project="1">
+		<fname>1-03.xlsx</fname>
+		<title>文字列の折り返し</title>
+		<text>セル範囲【B13：I16】を横方向にセル結合してください。次に、セル範囲【B14：B16】の内容がすべて表示されるように文字列を折り返してください。14～16行目の行の高さは「38」に変更します。</text>
+	</examItem>
+	<examItem idx="4" standard="1" task="4" project="1">
+		<fname>1-04.xlsx</fname>
+		<title>別のファイル形式</title>
+		<text>PDFファイルとして「英国長期語学研修」という名前でデスクトップのフォルダー「FOM Shuppan Documents」のフォルダー「MOS-Excel2016（2）」に保存してください。PDFファイルの設定は既定のままとします。</text>
+	</examItem>
+	<examItem idx="5" standard="1" task="5" project="1">
+		<fname>1-05.xlsx</fname>
+		<title>クイックアクセスツールバー</title>
+		<text>クイックアクセスツールバーにコマンド「名前を付けて保存」を登録してください。現在のブックだけに適用します。</text>
+	</examItem>
+	<examItem idx="6" standard="2" task="1" project="2">
+		<fname>1-06.xlsx</fname>
+		<title>インデント</title>
+		<text>ワークシート「進捗管理」のA列の「デッサン」「絵画」「写真」に左2文字分のインデントを設定してください。</text>
+	</examItem>
+	<examItem idx="7" standard="4" task="2" project="2">
+		<fname>1-07.xlsx</fname>
+		<title>数式</title>
+		<text>関数を使って、ワークシート「進捗管理」のセル【B4】にデッサンの提出済みの課題数を表示してください。提出済みの課題数はワークシート「課題別得点」の提出日をカウントします。</text>
+	</examItem>
+	<examItem idx="8" standard="5" task="3" project="2">
+		<fname>1-08.xlsx</fname>
+		<title>グラフ</title>
+		<text>ワークシート「進捗管理」のグラフを100％積み上げ横棒に変更してください。項目軸にアート課題を表示します。次に、すべてのデータ系列にデータラベルのデータ吹き出しを表示してください。データラベルには系列名と値を表示します。</text>
+	</examItem>
+	<examItem idx="9" standard="1" task="4" project="2">
+		<fname>1-09.xlsx</fname>
+		<title>列の削除</title>
+		<text>ワークシート「進捗管理」のグラフが、セルに合わせて移動やサイズ変更されないように設定してください。次に、表の最高点の列を削除してください。</text>
+	</examItem>
+	<examItem idx="10" standard="3" task="5" project="2">
+		<fname>1-10.xlsx</fname>
+		<title>テーブル</title>
+		<text>テーブル「絵画」を得点の高い順に並べ替えてください。</text>
+	</examItem>
+	<examItem idx="11" standard="3" task="6" project="2">
+		<fname>1-11.xlsx</fname>
+		<title>テーブル</title>
+		<text>ワークシート「課題別得点」の写真の表をテーブルに変換してください。表の先頭行を見出しとして使用します。次に、テーブルスタイル「オレンジ，テーブルスタイル（中間）10」を適用し、集計行を追加して平均得点と最終提出日を表示します。このスタイルがない場合は、「テーブルスタイル（中間）10」を適用します。さらに、絵画の集計行の得点の書式を写真の集計行の得点にコピーしてください。</text>
+	</examItem>
+	<examItem idx="12" standard="3" task="1" project="3">
+		<fname>1-12.xlsx</fname>
+		<title>テーブル</title>
+		<text>ワークシート「販売店別売上」のテーブルに、1行おきに背景の色が付くように書式を適用し、一番右の列を強調してください。行が追加されたら、書式が自動的に更新されるようにします。</text>
+	</examItem>
+	<examItem idx="13" standard="4" task="2" project="3">
+		<fname>1-13.xlsx</fname>
+		<title>数式</title>
+		<text>関数を使って、ワークシート「販売店別売上」の2016年度売上に販売店コードごとの売上を表示してください。2016年度売上データはワークシート「売上一覧」を参照します。</text>
+	</examItem>
+	<examItem idx="14" standard="4" task="3" project="3">
+		<fname>1-14.xlsx</fname>
+		<title>数式</title>
+		<text>関数を使って、ワークシート「担当者別集計」の販売店数にワークシート「販売店別売上」をもとに担当者名ごとの販売店数を表示してください。次に、合計に各年度の売上と販売店数の合計を表示してください。表の書式は変更しないようにします。</text>
+	</examItem>
+	<examItem idx="15" standard="5" task="4" project="3">
+		<fname>1-15.xlsx</fname>
+		<title>グラフ</title>
+		<text>ワークシート「担当者別集計」のグラフにレイアウト「レイアウト1」を適用してください。次に、項目軸が上から荒木、大久保、久木田、野田、畑、山内の順番になるようにしてください。値軸の位置は変更しないようにします。</text>
+	</examItem>
+	<examItem idx="16" standard="2" task="5" project="3">
+		<fname>1-16.xlsx</fname>
+		<title>オートフィル</title>
+		<text>ワークシート「売上一覧」のNo.の列が1、2、3、…と連番になるように入力してください。</text>
+	</examItem>
+	<examItem idx="17" standard="1" task="6" project="3">
+		<fname>1-17.xlsx</fname>
+		<title>印刷タイトル</title>
+		<text>ワークシート「売上一覧」のすべてのページに1～3行目が印刷されるように設定してください。4～6月、7～9月、10～12月、1～3月の四半期ごとに改ページし、同一四半期内は自動的に改ページされるようにします。</text>
+	</examItem>
+	<examItem idx="18" standard="1" task="7" project="3">
+		<fname>1-18.xlsx</fname>
+		<title>ワークシート</title>
+		<text>ワークシート「売上一覧」の販売月の列を非表示にしてください。次に、ドキュメントを検査し、プロパティと個人情報を削除してください。</text>
+	</examItem>
+	<examItem idx="19" standard="1" task="1" project="4">
+		<fname>1-19.xlsx</fname>
+		<title>検索</title>
+		<text>名前「ap_02」の範囲から「D05-S-BLU」を検索し、店舗「KJ」の数量を「2」に修正してください。</text>
+	</examItem>
+	<examItem idx="20" standard="2" task="2" project="4">
+		<fname>1-20.xlsx</fname>
+		<title>表示形式</title>
+		<text>ワークシート「売上」の売上日を「H28.4.1」と表示されるように変更してください。</text>
+	</examItem>
+	<examItem idx="21" standard="4" task="3" project="4">
+		<fname>1-21.xlsx</fname>
+		<title>数式</title>
+		<text>関数を使って、ワークシート「商品」のシリーズ、カテゴリ、カラーの列に、商品型番から取り出した文字列を表示してください。シリーズは商品型番の左端から3文字分、カテゴリは商品型番の5文字目から1文字分、カラーは商品型番の右端から3文字分を取り出します。</text>
+	</examItem>
+	<examItem idx="22" standard="3" task="4" project="4">
+		<fname>1-22.xlsx</fname>
+		<title>テーブル</title>
+		<text>ワークシート「店舗」のテーブルの店舗名と部門担当者名のフィールドの間に、新しい列を2列挿入してください。挿入した列のフィールド名は左から「住所」と「TEL」とします。</text>
+	</examItem>
+	<examItem idx="23" standard="2" task="1" project="5">
+		<fname>1-23.xlsx</fname>
+		<title>アウトライン</title>
+		<text>ワークシート「日次集計」の表にアウトラインを自動で作成してください。第1週だけ詳細データを表示し、第2週、第3週、第4週は小計列だけを表示します。</text>
+	</examItem>
+	<examItem idx="24" standard="1" task="2" project="5">
+		<fname>1-24.xlsx</fname>
+		<title>印刷範囲</title>
+		<text>ワークシート「日次集計」のセル範囲【B4：I27】を印刷範囲として設定してください。</text>
+	</examItem>
+	<examItem idx="25" standard="1" task="3" project="5">
+		<fname>1-25.xlsx</fname>
+		<title>余白</title>
+		<text>ワークシート「月次集計」のページ設定の上下左右の余白を3、ヘッダーとフッターを1.5に設定してください。印刷の向きは横とします。</text>
+	</examItem>
+	<examItem idx="26" standard="1" task="4" project="5">
+		<fname>1-26.xlsx</fname>
+		<title>数式の表示</title>
+		<text>ワークシート「月次集計」の数式を表示してください。</text>
+	</examItem>
+	<examItem idx="27" standard="4" task="1" project="6">
+		<fname>1-27.xlsx</fname>
+		<title>数式</title>
+		<text>ワークシート「10月」とワークシート「11月」のH列に消費税を求めてください。消費税は、「利用代金×消費税率」で計算します。「消費税率」はセルを参照します。</text>
+	</examItem>
+	<examItem idx="28" standard="4" task="2" project="6">
+		<fname>1-28.xlsx</fname>
+		<title>数式</title>
+		<text>関数を使って、ワークシート「10月」のセル【K5】にヨットの利用代金の平均を表示してください。データの順番を変更しても、結果が正しく表示されるようにします。</text>
+	</examItem>
+	<examItem idx="29" standard="1" task="3" project="6">
+		<fname>1-29.xlsx</fname>
+		<title>ヘッダーとフッター</title>
+		<text>ワークシート「会員名簿」にあらかじめ用意されているフッター「会員名簿，1ページ」を挿入してください。</text>
+	</examItem>
+	<examItem idx="30" standard="1" task="4" project="6">
+		<fname>1-30.xlsx</fname>
+		<title>拡大縮小印刷</title>
+		<text>ブック内の各ワークシートのデータがそれぞれ1ページで印刷されるようにしてください。用紙サイズと印刷の向きは既定のままとします。</text>
+	</examItem>
+	<examItem idx="31" standard="5" task="1" project="7">
+		<fname>1-31.xlsx</fname>
+		<title>画像</title>
+		<text>ワークシート「案内フォーマット」の支店名「Aトラベル株式会社　品川支店」の上に、デスクトップのフォルダー「FOM Shuppan Documents」のフォルダー「MOS-Excel2016（2）」にある画像「logo.png」を挿入してください。画像のサイズは縦横「3.5cm」とします。次に、画像を「対角ストライプ：右上がり」のパターンで塗りつぶしてください。このパターンがない場合は、「右上がり対角線」を適用します。</text>
+	</examItem>
+	<examItem idx="32" standard="1" task="2" project="7">
+		<fname>1-32.xlsx</fname>
+		<title>表示モード</title>
+		<text>ワークシート「案内フォーマット」をページレイアウトで表示してください。</text>
+	</examItem>
+	<examItem idx="33" standard="2" task="3" project="7">
+		<fname>1-33.xlsx</fname>
+		<title>小計</title>
+		<text>ワークシート「売上表」のデータを支店名の昇順に並べ替えてください。次に、支店名ごとの件数を合計金額の列に集計行として表示し、支店名ごとに改ページを挿入してください。</text>
+	</examItem>
+	<examItem idx="34" standard="1" task="4" project="7">
+		<fname>1-34.xlsx</fname>
+		<title>ウィンドウ枠の固定</title>
+		<text>ワークシート「売上表」を垂直方向にスクロールしても、常にタイトルと項目名が表示されるように設定してください。</text>
+	</examItem>
+	<examItem idx="35" standard="1" task="5" project="7">
+		<fname>1-35.xlsx</fname>
+		<title>ワークシート</title>
+		<text>ワークシート「支店名」のワークシート名を「支店一覧」に変更してください。</text>
+	</examItem>
+</root>
